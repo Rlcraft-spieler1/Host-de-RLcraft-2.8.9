@@ -1,0 +1,4 @@
+StoneIceBoulder1,-9022,-9012,8664,8674
+SmallWoodenCottage,-9166,-9158,8557,8568
+ShrineSmallAir,-9136,-9128,8543,8551
+StoneIceBoulder2,-9002,-8993,8683,8692

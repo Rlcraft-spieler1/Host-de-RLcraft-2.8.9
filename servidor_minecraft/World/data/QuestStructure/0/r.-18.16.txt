@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,-9247,-9247,8643,8643
+RLCraft_UndergroundRuin3,-9250,-9242,8637,8645
+ClayWaterMound1,-9237,-9226,8500,8510
+StoneIceBoulder3,-9298,-9288,8652,8662
