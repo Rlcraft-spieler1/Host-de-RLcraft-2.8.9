@@ -749,15 +749,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2026-02-07 18:34:42 +0000"
-    },
-    "done": true
-  },
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2026-02-07 18:34:42 +0000"
     },
     "done": true
   },
@@ -1661,15 +1661,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-02-07 18:50:53 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-07 18:50:53 +0000"
     },
     "done": true
   },
@@ -1986,15 +1986,15 @@
     },
     "done": true
   },
-  "appliedenergistics2:main/root": {
-    "criteria": {
-      "certus": "2026-02-07 18:53:24 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-07 18:53:24 +0000"
     },
     "done": true
   },
@@ -2646,6 +2646,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/ultimate_trash_can": {
+    "criteria": {
+      "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-02-07 18:39:39 +0000",
@@ -2653,12 +2659,6 @@
       "bread": "2026-02-07 19:56:35 +0000"
     },
     "done": false
-  },
-  "trashcans:recipes/ultimate_trash_can": {
-    "criteria": {
-      "has_the_recipe": "2026-02-07 18:18:33 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

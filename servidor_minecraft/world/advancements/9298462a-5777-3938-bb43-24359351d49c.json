@@ -1979,6 +1979,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-07 20:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_the_recipe": "2026-02-07 19:37:27 +0000"
@@ -2522,6 +2528,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "has_the_recipe": "2026-02-07 19:37:27 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-07 20:10:37 +0000"
     },
     "done": true
   },
@@ -3672,6 +3684,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2026-02-07 20:09:45 +0000",
+      "red_flower": "2026-02-07 20:09:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 19:37:27 +0000"
@@ -3759,6 +3778,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-07 19:37:27 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-07 20:10:37 +0000"
     },
     "done": true
   },
