@@ -979,6 +979,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2026-02-07 18:37:45 +0000",
       "husk": "2026-02-07 18:32:44 +0000",
       "creeper": "2026-02-07 18:31:32 +0000"
     },
@@ -2597,6 +2598,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-02-07 18:39:39 +0000",
       "pumpkin_pie": "2026-02-07 18:32:55 +0000"
     },
     "done": false

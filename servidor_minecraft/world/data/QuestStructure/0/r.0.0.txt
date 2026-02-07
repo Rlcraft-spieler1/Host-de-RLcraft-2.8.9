@@ -12,3 +12,11 @@ StonePlantBoulder,412,422,-39,-29
 VillageInn,67,87,32,59
 UndergroundCrypt,-32,-18,-84,-56
 SmallClockworkSite,434,456,54,73
+MeteorSite,156,171,207,237
+DinosaurSkull,31,42,-517,-498
+StonePlantMound,488,493,-342,-337
+MeteorSite,330,345,375,405
+StoneBoulder,412,421,429,438
+StonePlantMound2,472,484,436,449
+StonePlantBoulder,464,474,482,492
+StoneLeafMound,440,449,470,477

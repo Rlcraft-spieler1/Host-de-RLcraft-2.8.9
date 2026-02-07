@@ -985,10 +985,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2026-02-07 18:40:02 +0000",
       "skeleton": "2026-02-07 18:34:41 +0000",
       "husk": "2026-02-07 18:34:58 +0000",
       "witch": "2026-02-07 18:30:53 +0000",
-      "spider": "2026-02-07 18:35:33 +0000"
+      "spider": "2026-02-07 18:35:33 +0000",
+      "creeper": "2026-02-07 18:45:54 +0000"
     },
     "done": false
   },
@@ -1980,6 +1982,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-07 18:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:29 +0000"
@@ -2526,6 +2534,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-07 18:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:29 +0000"
@@ -2607,7 +2621,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "melon": "2026-02-07 18:32:58 +0000",
-      "bread": "2026-02-07 18:32:38 +0000"
+      "bread": "2026-02-07 18:32:38 +0000",
+      "rotten_flesh": "2026-02-07 18:37:58 +0000"
     },
     "done": false
   },
@@ -3766,6 +3781,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:29 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-07 18:45:09 +0000"
     },
     "done": true
   },

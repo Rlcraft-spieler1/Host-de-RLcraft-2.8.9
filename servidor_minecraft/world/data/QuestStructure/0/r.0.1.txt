@@ -1,0 +1,10 @@
+StonePlantMound3,381,392,607,616
+StoneBoulder,358,367,628,637
+StonePlantBoulder,465,475,677,687
+StonePlantBoulder,434,444,693,703
+StonePlantMound,444,449,711,716
+StoneLeafMound,344,353,548,555
+WoodPile,346,350,609,613
+WoodPile,406,410,729,733
+VillageWoodMill,316,329,600,616
+SmallClockworkSite,271,293,738,757

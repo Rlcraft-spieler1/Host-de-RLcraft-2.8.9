@@ -1,0 +1,6 @@
+PeacefulCrypt,606,630,574,590
+StonePlantMound2,539,551,586,599
+StonePlantBoulder,507,517,674,684
+StonePlantMound3,598,607,705,716
+StonePlantMound,525,530,738,743
+SmallWoodenCottage1,558,569,751,757

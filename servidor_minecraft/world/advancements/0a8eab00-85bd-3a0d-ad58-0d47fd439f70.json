@@ -981,7 +981,8 @@
     "criteria": {
       "skeleton": "2026-02-07 18:31:46 +0000",
       "husk": "2026-02-07 18:34:48 +0000",
-      "spider": "2026-02-07 18:30:00 +0000"
+      "spider": "2026-02-07 18:30:00 +0000",
+      "creeper": "2026-02-07 18:38:45 +0000"
     },
     "done": false
   },
@@ -1645,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-07 18:40:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:36 +0000"
@@ -1800,6 +1807,7 @@
       "savanna": "2026-02-07 18:19:01 +0000",
       "plains": "2026-02-07 18:30:43 +0000",
       "savanna_rock": "2026-02-07 18:21:58 +0000",
+      "river": "2026-02-07 18:41:02 +0000",
       "desert": "2026-02-07 18:18:36 +0000"
     },
     "done": false

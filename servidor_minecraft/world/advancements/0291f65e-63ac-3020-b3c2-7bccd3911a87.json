@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2026-02-07 18:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -1424,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-02-07 18:36:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -1955,6 +1967,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-07 18:45:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -1970,6 +1988,12 @@
   "biomesoplenty:recipes/buildingblocks/eucalyptus_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-07 18:44:22 +0000"
     },
     "done": true
   },
@@ -2519,6 +2543,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-07 18:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -2599,7 +2629,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2026-02-07 18:31:26 +0000"
+      "cooked_mutton": "2026-02-07 18:31:26 +0000",
+      "carrot": "2026-02-07 18:38:21 +0000"
     },
     "done": false
   },
@@ -3752,6 +3783,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-07 18:44:22 +0000"
     },
     "done": true
   },
