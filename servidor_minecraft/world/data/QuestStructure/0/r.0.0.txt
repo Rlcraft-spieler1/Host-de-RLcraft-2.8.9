@@ -10,3 +10,5 @@ MeteorSite,250,280,6,21
 StonePlantBoulder,386,396,29,39
 StonePlantBoulder,412,422,-39,-29
 VillageInn,67,87,32,59
+UndergroundCrypt,-32,-18,-84,-56
+SmallClockworkSite,434,456,54,73

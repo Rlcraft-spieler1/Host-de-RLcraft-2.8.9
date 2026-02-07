@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-02-07 18:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -830,6 +836,12 @@
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-07 18:33:41 +0000"
     },
     "done": true
   },
@@ -964,6 +976,15 @@
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2026-02-07 18:35:46 +0000",
+      "husk": "2026-02-07 18:32:02 +0000",
+      "zombie": "2026-02-07 18:32:59 +0000",
+      "spider": "2026-02-07 18:30:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1172,6 +1193,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "craft": "2026-02-07 18:34:27 +0000"
     },
     "done": true
   },
@@ -1709,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "spider": "2026-02-07 18:30:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -1767,6 +1800,7 @@
     "criteria": {
       "savanna": "2026-02-07 18:19:02 +0000",
       "savanna_rock": "2026-02-07 18:19:10 +0000",
+      "river": "2026-02-07 18:31:27 +0000",
       "desert": "2026-02-07 18:18:52 +0000"
     },
     "done": false
@@ -2563,6 +2597,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2026-02-07 18:31:26 +0000"
+    },
+    "done": false
+  },
   "trashcans:recipes/ultimate_trash_can": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
@@ -2902,6 +2942,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-07 18:31:26 +0000"
     },
     "done": true
   },
@@ -4210,6 +4256,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-07 18:26:47 +0000"
     },
     "done": true
   },
