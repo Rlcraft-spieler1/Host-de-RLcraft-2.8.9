@@ -10782,3 +10782,322 @@ com.google.gson.JsonSyntaxException: Unknown function 'extratan:apply_random_tem
 [19:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
 [19:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
 [19:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> y pa cuando una guia del underneath de rlcraft dregora?
+[19:57:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> la dimension de los parasitos
+[19:57:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> f
+[19:57:43] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[19:57:43] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_19.57.43.411
+[19:57:43] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (22 66 9).
+[19:57:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Rupter
+[19:57:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> f
+[19:57:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> martineli queres una armor de cobre?
+[19:57:55] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[19:57:55] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/16214, l='world', x=28.19, y=66.00, z=11.47]
+[19:57:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Rupter
+[19:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> me sobra
+[19:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> es mejor que la de hierro?
+[19:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by spieler
+[19:58:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by TPainterJL
+[19:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> si
+[19:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:58:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> me fui a la mina y hay un desmadre afuera ._.
+[19:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> PERO SI YO SOY PERUANO
+[19:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hay cofres de hierro
+[19:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> en la fundidora te da x2 en minerales
+[19:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> spieler hay que hacer una abse subterranea
+[19:59:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> ni loco
+[19:59:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> base"
+[19:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> atreviesan bloques
+[20:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[20:00:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> ya casi apago server
+[20:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> ahi organizo todo del server
+[20:00:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: latamvp lost connection: Disconnected
+[20:00:47] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[20:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp left the game
+[20:00:47] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[20:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> OK
+[20:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> spieler
+[20:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> q pasa
+[20:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> la armadura de cobre, ¡protege mas que la de hierro?
+[20:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> proteje lo mismo
+[20:02:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> pero te da 2 corazones extras
+[20:02:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> ME SIRVE
+[20:02:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Martineli03 has made the advancement [Isn't It Iron Pick]
+[20:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> gente entonces haremos el tinkers?
+[20:02:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> mmm
+[20:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:02:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:02:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> te doy
+[20:02:41] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-4, 29] in dimension 0 (overworld) while populating chunk [-3, 30], causing cascading worldgen lag.
+[20:02:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:42] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 0 and chunkZ 30...
+[20:02:42] [Server thread/INFO] [roguelike]: Did not detect structure "MANSION" within 60 blocks of potential spawn location {"x": -74, "y": 0, "z": 506}.
+[20:02:42] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id builtin:desert at {"x": -74, "y": 0, "z": 506}...
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-4, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 33] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-4, 33] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 33] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-4, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-4, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-3, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-3, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-3, 33] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-4, 34] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 34] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 34] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 34] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 33] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 35] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 29] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-5, 29] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 29] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-1, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-2, 30] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-2, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-2, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:43] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-3, 34] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:44] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-6, 35] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:44] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-7, 35] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:44] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-4, 35] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:44] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-8, 32] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:44] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-8, 31] in dimension 0 (overworld) while populating chunk [0, 30], causing cascading worldgen lag.
+[20:02:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:44] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id builtin:desert at {"x": -74, "y": 0, "z": 506}.
+[20:02:44] [Server thread/INFO] [roguelike]: Task Dungeon.generate() completed in 1806 milliseconds.
+[20:02:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TPainterJL moved too quickly! -2.4937712846197257,2.127890238205481,9.557300748258626
+[20:02:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2790ms behind, skipping 55 tick(s)
+[20:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> bastante hierro
+[20:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> por una full cobre
+[20:03:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> para?
+[20:03:11] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:03:11] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:03:11] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:03:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> y te doy los otros minerales que consegui
+[20:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> va
+[20:03:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:03:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> trato hehco
+[20:03:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> ahi se esta fundiendo el hierro
+[20:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hecho*
+[20:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> por cierto
+[20:03:56] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:03:56] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:03:56] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> como conseguiste esa mochila
+[20:03:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> en un cofre
+[20:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> pero se puede craftear
+[20:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:04:41] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:04:41] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:04:41] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> se puede hacer tpa?
+[20:05:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> no esta ese comando
+[20:05:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> tp?
+[20:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> si
+[20:05:26] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:05:26] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:05:26] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:05:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> no tengo permiso
+[20:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> no hagas nada malo
+[20:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> okokok
+[20:05:50] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:05:50] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [8, 41] in dimension 0 (overworld) while populating chunk [8, 40], causing cascading worldgen lag.
+[20:05:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:05:50] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:05:50] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [9, 41] in dimension 0 (overworld) while populating chunk [8, 40], causing cascading worldgen lag.
+[20:05:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:05:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> aunque mejor
+[20:05:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> uno hizo /kill XDDD
+[20:05:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> yo tmb puedo dx?w
+[20:05:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing BountyHunter_House
+[20:05:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [6, 42] in dimension 0 (overworld) while populating chunk [6, 41], causing cascading worldgen lag.
+[20:05:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> pon el plugin que te pase
+[20:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> el de tpa
+[20:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> va
+[20:06:11] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:06:11] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:06:11] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:06:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 49] in dimension 0 (overworld) while populating chunk [-1, 49], causing cascading worldgen lag.
+[20:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-2, 50] in dimension 0 (overworld) while populating chunk [-1, 49], causing cascading worldgen lag.
+[20:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-1, 50] in dimension 0 (overworld) while populating chunk [-1, 49], causing cascading worldgen lag.
+[20:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 50] in dimension 0 (overworld) while populating chunk [-1, 49], causing cascading worldgen lag.
+[20:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing Gate_1
+[20:06:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [9, 49] in dimension 0 (overworld) while populating chunk [7, 49], causing cascading worldgen lag.
+[20:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing Gate_1
+[20:06:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [8, 49] in dimension 0 (overworld) while populating chunk [7, 49], causing cascading worldgen lag.
+[20:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> pero mas tarde
+[20:06:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> ok
+[20:06:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hacete armor
+[20:06:55] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:55] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [6, 56] in dimension 0 (overworld) while populating chunk [5, 56], causing cascading worldgen lag.
+[20:06:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:55] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:55] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [4, 57] in dimension 0 (overworld) while populating chunk [5, 56], causing cascading worldgen lag.
+[20:06:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:55] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:55] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [5, 57] in dimension 0 (overworld) while populating chunk [5, 56], causing cascading worldgen lag.
+[20:06:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:55] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing BigClockworkSite
+[20:06:55] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [6, 57] in dimension 0 (overworld) while populating chunk [5, 56], causing cascading worldgen lag.
+[20:06:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:56] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[20:06:56] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[20:06:56] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[20:06:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing UndergroundCultChamber
+[20:06:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-10, 48] in dimension 0 (overworld) while populating chunk [-10, 47], causing cascading worldgen lag.
+[20:06:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing UndergroundCultChamber
+[20:06:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-11, 48] in dimension 0 (overworld) while populating chunk [-10, 47], causing cascading worldgen lag.
+[20:06:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing UndergroundCultChamber
+[20:06:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-11, 47] in dimension 0 (overworld) while populating chunk [-10, 47], causing cascading worldgen lag.
+[20:06:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> y el cobre?
+[20:07:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:07:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 51] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 50] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 49] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 45] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 44] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 44] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 43] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 52] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 52] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 51] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 48] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 47] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, 46] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 50] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 49] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 47] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 46] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ParasiticLabStructure
+[20:07:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, 45] in dimension 0 (overworld) while populating chunk [-12, 48], causing cascading worldgen lag.
+[20:07:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:03] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ShrineSmallFire
+[20:07:03] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-11, 58] in dimension 0 (overworld) while populating chunk [-11, 57], causing cascading worldgen lag.
+[20:07:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> en el cofre
+[20:07:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> agarra lo que quieras
+[20:07:25] [Server thread/WARN] [FML]: Quark loaded a new chunk [-5, 60] in dimension 0 (overworld) while populating chunk [-5, 59], causing cascading worldgen lag.
+[20:07:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:25] [Server thread/WARN] [FML]: Quark loaded a new chunk [-6, 60] in dimension 0 (overworld) while populating chunk [-5, 59], causing cascading worldgen lag.
+[20:07:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> GRAX GRAX
