@@ -1,2 +1,7 @@
 ChurchGraveyardRuins,509,552,-34,13
 ShrineSmallFire,704,714,96,106
+BlazeSpawnerCrystal,638,644,290,296
+StonePlantMound1,594,600,484,490
+SmallAbandonedMine,502,527,480,495
+StonePlantMound1,601,607,498,504
+StonePlantMound2,557,569,497,510

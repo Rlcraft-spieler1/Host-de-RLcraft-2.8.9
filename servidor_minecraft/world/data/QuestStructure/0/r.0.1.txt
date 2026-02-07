@@ -1,0 +1,3 @@
+DesertBeacon,103,109,560,566
+DesertHut,87,97,592,601
+StoneLeafMound,344,353,548,555

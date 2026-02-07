@@ -973,6 +973,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "husk": "2026-02-07 17:29:32 +0000",
+      "spider": "2026-02-07 17:29:57 +0000",
       "creeper": "2026-02-07 17:06:41 +0000"
     },
     "done": false
@@ -1745,6 +1747,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "craft": "2026-02-07 17:32:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:01:36 +0000"
@@ -1783,9 +1791,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2026-02-07 17:27:07 +0000",
+      "desert_hills": "2026-02-07 17:33:52 +0000",
       "savanna": "2026-02-07 17:01:36 +0000",
       "plains": "2026-02-07 17:21:02 +0000",
       "savanna_rock": "2026-02-07 17:07:05 +0000",
+      "ocean": "2026-02-07 17:31:23 +0000",
       "river": "2026-02-07 17:21:15 +0000",
       "desert": "2026-02-07 17:01:52 +0000"
     },
@@ -1839,15 +1850,15 @@
     },
     "done": true
   },
-  "nocubessrpnests:advsrpnestsaddonroot": {
-    "criteria": {
-      "advsrpnestsaddonroot": "2026-02-07 17:01:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:01:36 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advsrpnestsaddonroot": {
+    "criteria": {
+      "advsrpnestsaddonroot": "2026-02-07 17:01:37 +0000"
     },
     "done": true
   },
@@ -1941,15 +1952,15 @@
     },
     "done": true
   },
-  "appliedenergistics2:main/root": {
-    "criteria": {
-      "certus": "2026-02-07 17:06:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:01:36 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-07 17:06:49 +0000"
     },
     "done": true
   },
@@ -2589,17 +2600,19 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2026-02-07 17:05:38 +0000"
-    },
-    "done": false
-  },
   "trashcans:recipes/ultimate_trash_can": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:01:36 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2026-02-07 17:46:17 +0000",
+      "bread": "2026-02-07 17:05:38 +0000",
+      "carrot": "2026-02-07 17:34:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
