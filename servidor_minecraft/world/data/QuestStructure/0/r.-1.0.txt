@@ -1,3 +1,0 @@
-ShrineSmallFire,-572,-562,-127,-117
-ShrineSmallWater,-657,-649,-94,-86
-UndergroundCrypt,-911,-883,282,296
