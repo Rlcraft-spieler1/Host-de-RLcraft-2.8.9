@@ -11,3 +11,8 @@ MeteorSite,250,280,6,21
 StonePlantBoulder,386,396,29,39
 StonePlantBoulder,412,422,-39,-29
 SmallClockworkSite,434,456,54,73
+BabylonTower,199,261,226,290
+SmallClockworkSite,161,180,224,246
+DinosaurSkull,122,133,350,369
+MeteorSite,330,345,375,405
+UndergroundCrypt,-32,-18,-84,-56

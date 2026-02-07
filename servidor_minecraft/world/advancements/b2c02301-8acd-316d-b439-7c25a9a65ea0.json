@@ -1784,7 +1784,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "savanna": "2026-02-07 17:01:36 +0000",
+      "plains": "2026-02-07 17:21:02 +0000",
       "savanna_rock": "2026-02-07 17:07:05 +0000",
+      "river": "2026-02-07 17:21:15 +0000",
       "desert": "2026-02-07 17:01:52 +0000"
     },
     "done": false
@@ -3655,6 +3657,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2026-02-07 17:22:11 +0000",
+      "red_flower": "2026-02-07 17:22:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:01:36 +0000"
@@ -4240,6 +4249,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-07 17:18:06 +0000"
     },
     "done": true
   },

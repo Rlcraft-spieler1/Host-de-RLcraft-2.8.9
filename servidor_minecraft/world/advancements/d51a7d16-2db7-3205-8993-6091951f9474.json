@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-07 17:16:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/bamboo_terrarium": {
     "criteria": {
       "has_the_recipe": "2026-02-07 17:02:43 +0000"
