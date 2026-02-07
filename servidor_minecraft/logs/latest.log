@@ -10672,3 +10672,113 @@ com.google.gson.JsonSyntaxException: Unknown function 'extratan:apply_random_tem
 [19:47:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [19:47:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [19:47:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:47:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> las armas del tinker estan mas op en el early game
+[19:47:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:47:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:47:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:47:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> tengo medio stack de grava
+[19:47:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:48:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:48:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:48:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:48:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hay que farmear bosses del parasites para crafteos
+[19:48:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:48:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:48:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:48:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:49:03] [Server thread/WARN] [gravekeeper]: Death chest dropping content at world (64 51 -39) by player EntityPlayerMP['spieler'/13586, l='world', x=67.37, y=51.00, z=-41.34]
+[19:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> martineli agregame
+[19:49:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:49:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:49:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:49:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:49:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:49:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:49:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:50:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> vale vale
+[19:50:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: spieler lost connection: Disconnected
+[19:50:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: spieler left the game
+[19:50:20] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:50:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:50:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:50:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:50:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> dah
+[19:51:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:51:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:51:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:51:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:51:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:51:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:51:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:52:18] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[19:52:18] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 246 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[19:52:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:52:23] [Server thread/INFO] [gamestages]: Loaded 0 stages for spieler.
+[19:52:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: spieler[/127.49.59.245:45673] logged in with entity id 12042733 at (62.898243586577394, 44.0, -30.529490021363607)
+[19:52:23] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: spieler
+[19:52:23] [Server thread/INFO] [dsurround]: Player [spieler] connected with Dynamic Surroundings 3.6.1.0
+[19:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: spieler joined the game
+[19:52:23] [Server thread/INFO] [gamestages]: Syncing 0 stages for spieler.
+[19:52:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['spieler'/12042733, l='world', x=62.90, y=44.00, z=-30.53] connected. Sending ping
+[19:52:23] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player spieler
+[19:52:23] [Server thread/INFO] [Mekanism]: Sent config to 'spieler.'
+[19:52:23] [Server thread/INFO] [XAT]: Syncing Config to spieler
+[19:52:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> tengo 1,5 stacks de grava
+[19:52:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:52:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:52:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:52:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:52:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dan (Librarian) was slain by spieler
+[19:53:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> tepee
+[19:53:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:53:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:53:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:53:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Martineli03 has made the advancement [Monster Hunter]
+[19:53:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> lo dices como si no supiera
+[19:53:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:53:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> dale
+[19:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> no duerman
+[19:53:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:53:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:54:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:54:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:54:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:54:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:54:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> kookok
+[19:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> okokok
+[19:54:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:54:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:54:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:54:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:54:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> falta arena
+[19:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> como conseguiste esa armor?
+[19:54:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> con cobre
+[19:54:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> en la mina
+[19:54:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:54:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:54:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:54:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:55:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:55:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:55:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:55:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hago el horno?
+[19:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> entendido sr rlcraftiano
+[19:56:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:56:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:56:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:56:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> XD
+[19:56:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:56:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:56:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[19:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> y pa cuando una guia del underneath de rlcraft dregora?
