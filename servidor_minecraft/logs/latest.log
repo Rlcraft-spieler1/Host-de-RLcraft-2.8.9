@@ -9879,3 +9879,310 @@ com.google.gson.JsonSyntaxException: Unknown function 'extratan:apply_random_tem
 [18:56:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [18:56:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> farmeen redstone
 [18:56:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:56:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:56:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hay+
+[18:57:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> "materiales y tu"
+[18:57:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PeacefulCrypt
+[18:57:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [89, 26] in dimension 0 (overworld) while populating chunk [88, 26], causing cascading worldgen lag.
+[18:57:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:57:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PeacefulCrypt
+[18:57:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [89, 27] in dimension 0 (overworld) while populating chunk [88, 26], causing cascading worldgen lag.
+[18:57:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> asi se llama
+[18:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[18:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[18:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[18:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[18:57:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[18:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hay 2
+[18:57:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> un del normal y otra de las armaduras
+[18:57:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:57:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:57:50] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NestStageII
+[18:57:50] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [93, 35] in dimension 0 (overworld) while populating chunk [93, 34], causing cascading worldgen lag.
+[18:57:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[18:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[18:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[18:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[18:57:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[18:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yaeh-min (Fletcher) was slain by Assimilated Villager
+[18:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yaeh-min (Fletcher) suffocated in a wall
+[18:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[18:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[18:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[18:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[18:58:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[18:58:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [83, 18] in dimension 0 (overworld) while populating chunk [84, 18], causing cascading worldgen lag.
+[18:58:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:58:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [83, 17] in dimension 0 (overworld) while populating chunk [84, 18], causing cascading worldgen lag.
+[18:58:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:59:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:59:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> cuero y hierro
+[18:59:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:59:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:59:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:59:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[18:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[18:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[18:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[18:59:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[18:59:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> tienes el diamond sand?
+[19:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:00:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[19:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> el diamante normal?
+[19:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> encontre diamond sand whatt?
+[19:00:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> spieler encontre justo
+[19:00:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> par que es
+[19:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> ya ma tengo que ir vai
+[19:00:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Dalviabee lost connection: Disconnected
+[19:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee left the game
+[19:00:33] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[19:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> para hacer diamantes
+[19:00:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:00:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:00:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:00:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> uy
+[19:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:00:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:01:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:01:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hagamos el pico
+[19:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> y consigamos obsi
+[19:01:25] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [97, 28] in dimension 0 (overworld) while populating chunk [96, 28], causing cascading worldgen lag.
+[19:01:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:01:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> cierto cierto ajaja
+[19:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> wtfff
+[19:02:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:02:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:02:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> es para la mesa de encantemiento premium
+[19:02:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:02:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> le permite elegir los encantamientos
+[19:02:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yoonnnaaaa has made the advancement [Diamonds!]
+[19:03:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:03:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:03:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:03:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:03:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:03:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:03:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:03:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> consigan plata
+[19:03:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:03:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> sirve para el tinker tambien
+[19:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> esta esa madre aqui xddd
+[19:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> de mod
+[19:04:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> alb
+[19:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> que paso XD
+[19:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> le meti un picaswo a alguien xd
+[19:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> no XDD
+[19:04:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:04:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:04:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:04:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:04:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> esa madre de mod la de immersive enginneried
+[19:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> esa cosa
+[19:05:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> es dificil de hacer xd
+[19:05:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:05:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:05:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:05:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:05:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:05:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> ok
+[19:05:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:05:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:05:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:05:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:05:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp has made the advancement [Not Today, Thank You]
+[19:06:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> xD
+[19:06:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:06:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:06:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:06:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:06:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> estoy en una ravine
+[19:06:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:06:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:06:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:06:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:06:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:07:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:07:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> okei+
+[19:07:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:07:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> necesitamos unos pardes stacks de redstones
+[19:07:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:07:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:07:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:07:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:07:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:07:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TPainterJL has made the advancement [Ice Bucket Challenge]
+[19:08:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> el segundo no importa
+[19:08:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:08:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> le acertaste
+[19:08:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:09:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> no es muy necesario la fundidora por ahora
+[19:09:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> aca material tiene propiedades
+[19:09:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:10:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:10:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:10:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:10:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:10:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> solo el martillo
+[19:10:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> mina en area
+[19:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> depende del material que hagas es la velocidad
+[19:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> tiene muy poca durabilidad
+[19:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> el area no se aumenta
+[19:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> se puede jugar sin eso
+[19:12:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:12:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> primero hay que hacer un pico de obsidiana
+[19:12:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:12:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> para consiguir un mineral que hay en el nether
+[19:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> pone @tinkers
+[19:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:12:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:12:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:12:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:13:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:13:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:13:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ShrineSmallFire
+[19:14:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [88, 47] in dimension 0 (overworld) while populating chunk [88, 46], causing cascading worldgen lag.
+[19:14:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:14:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:14:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TPainterJL has made the advancement [Life Finds a Way]
+[19:14:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:15:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> estoy juntando arena y grava
+[19:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> tengo 12 de redstone xd
+[19:15:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [82, 53] in dimension 0 (overworld) while populating chunk [82, 52], causing cascading worldgen lag.
+[19:15:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:15:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [81, 53] in dimension 0 (overworld) while populating chunk [82, 52], causing cascading worldgen lag.
+[19:15:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:15:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:16:09] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_19.16.09.229
+[19:16:09] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (126 76 -14).
+[19:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Walking Head
+[19:16:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Yoonnnaaaa.
+[19:16:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[19:16:40] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[19:16:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[19:16:44] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[19:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by latamvp

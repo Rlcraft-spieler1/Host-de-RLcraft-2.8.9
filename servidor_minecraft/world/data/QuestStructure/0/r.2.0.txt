@@ -2,3 +2,10 @@ DinosaurSkull,1136,1155,485,496
 StonePlantMound2,1261,1273,387,400
 WoodWallRemains,1321,1349,397,405
 ClayWaterMound1,1245,1255,339,350
+StonePlantBoulder,1385,1395,341,351
+StonePlantMound3,1293,1302,322,333
+StonePlantMound2,1337,1350,335,347
+StoneBoulder,1382,1391,327,336
+StonePlantMound3,1327,1336,311,322
+PeacefulCrypt,1417,1433,426,450
+StonePlantMound1,1500,1506,457,463

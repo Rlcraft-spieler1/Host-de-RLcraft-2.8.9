@@ -1810,6 +1810,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2026-02-07 19:01:52 +0000",
       "savanna": "2026-02-07 18:19:01 +0000",
       "plains": "2026-02-07 18:30:43 +0000",
       "savanna_rock": "2026-02-07 18:21:58 +0000",

@@ -986,6 +986,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2026-02-07 18:35:46 +0000",
+      "skeleton": "2026-02-07 19:11:43 +0000",
       "husk": "2026-02-07 18:32:02 +0000",
       "zombie": "2026-02-07 18:32:59 +0000",
       "spider": "2026-02-07 18:30:12 +0000"
@@ -3285,6 +3286,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-02-07 19:02:36 +0000"
     },
     "done": true
   },

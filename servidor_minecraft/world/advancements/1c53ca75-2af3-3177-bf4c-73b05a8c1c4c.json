@@ -1396,7 +1396,8 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "emerald": "2026-02-07 18:24:34 +0000"
+      "emerald": "2026-02-07 18:24:34 +0000",
+      "ruby": "2026-02-07 19:00:59 +0000"
     },
     "done": false
   },
@@ -1721,6 +1722,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/miners_delight": {
+    "criteria": {
+      "miners_delight": "2026-02-07 19:14:54 +0000"
     },
     "done": true
   },
@@ -3768,6 +3775,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-07 19:08:02 +0000"
     },
     "done": true
   },
