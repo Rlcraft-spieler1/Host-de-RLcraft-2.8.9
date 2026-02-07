@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2026-02-07 19:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
@@ -4172,6 +4178,12 @@
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "craft": "2026-02-07 19:32:24 +0000"
     },
     "done": true
   },

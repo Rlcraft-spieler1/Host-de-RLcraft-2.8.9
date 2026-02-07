@@ -20,3 +20,4 @@ StoneBoulder,412,421,429,438
 StonePlantMound2,472,484,436,449
 StonePlantBoulder,464,474,482,492
 StoneLeafMound,440,449,470,477
+BabylonTower,199,261,226,290

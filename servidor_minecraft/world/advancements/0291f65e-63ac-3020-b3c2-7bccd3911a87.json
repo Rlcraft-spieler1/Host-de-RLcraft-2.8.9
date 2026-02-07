@@ -1818,6 +1818,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2026-02-07 19:26:37 +0000",
       "desert_hills": "2026-02-07 19:20:00 +0000",
       "savanna": "2026-02-07 18:19:02 +0000",
       "savanna_rock": "2026-02-07 18:19:10 +0000",
