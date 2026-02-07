@@ -7963,3 +7963,295 @@ Report this to the loot adder.
 [17:04:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [17:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee has made the advancement [Getting an Upgrade]
 [17:05:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> dan mascaras op esos indios
+[17:05:13] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:05:13] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:05:14] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:05:28] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp has made the advancement [Stone Age]
+[17:05:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: spieler has made the advancement [Stone Age]
+[17:05:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> hay buglis
+[17:06:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 12553ms behind, skipping 251 tick(s)
+[17:06:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:06:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:06:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:06:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp has made the advancement [Getting an Upgrade]
+[17:06:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: spieler has made the advancement [Getting an Upgrade]
+[17:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee has made the advancement [Monster Hunter]
+[17:06:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:06:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:06:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:06:58] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.06.58.048
+[17:06:58] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (318 54 -66).
+[17:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Rupter
+[17:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> no aparecen
+[17:07:02] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:07:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> gg
+[17:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> solos los rupters
+[17:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hay ovejas aca
+[17:07:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:07:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:07:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:07:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp has made the advancement [Monster Hunter]
+[17:07:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:07:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:07:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Dalviabee
+[17:08:15] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ChurchGraveyardRuins
+[17:08:15] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [32, -1] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:15] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ChurchGraveyardRuins
+[17:08:15] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [33, -1] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:15] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ChurchGraveyardRuins
+[17:08:15] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [33, -2] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:15] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing ChurchGraveyardRuins
+[17:08:15] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [33, -3] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ChurchGraveyardRuins
+[17:08:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ChurchGraveyardRuins
+[17:08:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [32, 0] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ChurchGraveyardRuins
+[17:08:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [33, 0] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing ChurchGraveyardRuins
+[17:08:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:17] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing ChurchGraveyardRuins
+[17:08:17] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:17] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing ChurchGraveyardRuins
+[17:08:17] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [32, -2], causing cascading worldgen lag.
+[17:08:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: spieler moved too quickly! 5.733896281873285,-0.2046003784434305,-8.324719592381143
+[17:08:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: latamvp moved too quickly! 3.0400069084043366,0.0,9.770484333679917
+[17:08:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2834ms behind, skipping 56 tick(s)
+[17:08:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:08:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:08:28] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_17.08.28.388
+[17:08:28] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (384 74 -65).
+[17:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Mother Spider
+[17:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: spieler has made the advancement [Monster Hunter]
+[17:08:36] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [34, -4] in dimension 0 (overworld) while populating chunk [34, -5], causing cascading worldgen lag.
+[17:08:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:08:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> el reador es fetichista
+[17:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:09:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:09:18] [Server thread/WARN] [FML]: Quark loaded a new chunk [31, 8] in dimension 0 (overworld) while populating chunk [32, 7], causing cascading worldgen lag.
+[17:09:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:09:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:09:39] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.09.39.227
+[17:09:39] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (317 54 -64).
+[17:09:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Skeleton Warrior
+[17:09:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:09:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:09:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:09:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:09:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:09:42] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> jajaja
+[17:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> x2
+[17:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:09:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:09:56] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['Dalviabee'/3236, l='world', x=229.70, y=69.62, z=-106.86]
+[17:09:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Assimilated Enderman
+[17:10:02] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [39, -5] in dimension 0 (overworld) while populating chunk [39, -6], causing cascading worldgen lag.
+[17:10:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:04] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [41, 1] in dimension 0 (overworld) while populating chunk [40, 1], causing cascading worldgen lag.
+[17:10:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:06] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:10:06] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_17.10.06.088
+[17:10:06] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (444 70 -7).
+[17:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Skeleton Warrior
+[17:10:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:10:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:10:08] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [41, -6] in dimension 0 (overworld) while populating chunk [41, -5], causing cascading worldgen lag.
+[17:10:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:10:13] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [42, -8] in dimension 0 (overworld) while populating chunk [42, -7], causing cascading worldgen lag.
+[17:10:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:13] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [43, 2] in dimension 0 (overworld) while populating chunk [42, 3], causing cascading worldgen lag.
+[17:10:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:17] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:10:17] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['Dalviabee'/3236, l='world', x=275.20, y=71.02, z=-83.84]
+[17:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Assimilated Enderman
+[17:10:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: spieler has made the advancement [Not Today, Thank You]
+[17:10:21] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:10:21] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/61246, l='world', x=249.85, y=70.80, z=-105.52]
+[17:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Assimilated Human
+[17:10:23] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> el demoni9o
+[17:10:26] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [44, -8] in dimension 0 (overworld) while populating chunk [43, -8], causing cascading worldgen lag.
+[17:10:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:26] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ShrineSmallFire
+[17:10:26] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [43, 6] in dimension 0 (overworld) while populating chunk [43, 5], causing cascading worldgen lag.
+[17:10:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:10:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> el diavlo
+[17:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:10:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:10:44] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:10:44] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/61246, l='world', x=252.18, y=70.00, z=-103.09]
+[17:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Assimilated Human
+[17:10:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:10:53] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.10.53.190
+[17:10:53] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (291 70 -68).
+[17:10:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Assimilated Human
+[17:11:04] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:11:04] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/61246, l='world', x=262.24, y=70.75, z=-98.22]
+[17:11:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Assimilated Enderman
+[17:11:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:11:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:11:39] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> hay un primitivoooooooo
+[17:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> qyeeee
+[17:12:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:06] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:12:06] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_17.12.06.837
+[17:12:06] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (306 70 -74).
+[17:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Assimilated Enderman
+[17:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:12:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:12:12] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.12.12.198
+[17:12:12] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (301 70 -70).
+[17:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Dalviabee
+[17:12:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> es inmune al agua
+[17:12:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Husk
+[17:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> estoy en una base yo
+[17:12:45] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:12:45] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.12.45.802
+[17:12:45] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (297 70 -80).
+[17:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Dalviabee
+[17:12:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:50] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by latamvp
+[17:12:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:12:53] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_17.12.53.049
+[17:12:53] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (299 69 -46).
+[17:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by latamvp
+[17:12:53] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> coñooooo
+[17:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:12:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:13:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:13:24] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:13:24] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/61246, l='world', x=305.20, y=67.82, z=-45.57]
+[17:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by latamvp
+[17:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Baby Spider
+[17:13:30] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[17:13:30] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 246 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[17:13:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:13:37] [Server thread/INFO] [gamestages]: Could not find legacy data for 995ff85b-68fe-3194-ac52-8a0cf1f6c26d.
+[17:13:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: 123juandua[/127.56.245.40:58617] logged in with entity id 962908 at (195.5, 70.0, -176.5)
+[17:13:37] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: 123juandua
+[17:13:37] [Server thread/INFO] [dsurround]: Player [123juandua] connected with Dynamic Surroundings 3.6.1.0
+[17:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 123juandua joined the game
+[17:13:37] [Server thread/INFO] [gamestages]: Syncing 0 stages for 123juandua.
+[17:13:37] [Server thread/INFO] [Waila]: Player EntityPlayerMP['123juandua'/962908, l='world', x=195.50, y=70.00, z=-176.50] connected. Sending ping
+[17:13:37] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player 123juandua
+[17:13:37] [Server thread/INFO] [Mekanism]: Sent config to '123juandua.'
+[17:13:37] [Server thread/INFO] [XAT]: Syncing Config to 123juandua
+[17:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:13:40] [Server thread/INFO] [gamestages]: Saved 0 stages for 123juandua.
+[17:13:46] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:13:46] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/61246, l='world', x=247.75, y=67.17, z=-87.75]
+[17:13:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was shot by Skeleton
+[17:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Dalviabee
+[17:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Dalviabee
+[17:14:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:14:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:14:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> op Dalviabee
+[17:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for 123juandua.
+[17:14:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:14:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:14:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> haganse tp si quieren, estoy en un lugar seguro
+[17:14:53] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.14.53.532
+[17:14:53] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (188 68 -12).
+[17:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was killed by magic
+[17:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Zombie
+[17:14:58] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:14:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> conio
+[17:15:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was shot by Skeleton
+[17:15:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> con /tp spieler
+[17:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for 123juandua.
+[17:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:15:10] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:15:18] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:15:18] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for latamvp, restore it with /gkrestore d51a7d16-2db7-3205-8993-6091951f9474_latamvp_2026-02-07_17.15.18.095
+[17:15:18] [Server thread/INFO] [gravekeeper]: Generated DeathChest for latamvp (d51a7d16-2db7-3205-8993-6091951f9474) in DIM0 at (258 70 -37).
+[17:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Assimilated Big Spider
+[17:15:41] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:15:41] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['latamvp'/61246, l='world', x=249.54, y=71.03, z=-41.83]
+[17:15:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by Assimilated Big Spider
+[17:15:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:15:44] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.15.44.002
+[17:15:44] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (218 70 -63).
+[17:15:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Rupter
+[17:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[17:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for 123juandua.
+[17:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[17:15:55] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[17:15:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:16:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:16:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:16:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:16:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> onde estan?
+[17:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> creo que puse el mundo en dificil
+[17:16:23] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: latamvp
+[17:16:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by latamvp
+[17:16:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <123juandua> me acabbo de llegar
+[17:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: latamvp was slain by latamvp
+[17:16:30] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[17:16:30] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-07_17.16.30.792
+[17:16:30] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (195 68 -139).
+[17:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Rupter
