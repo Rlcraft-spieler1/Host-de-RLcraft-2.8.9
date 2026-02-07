@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-02-07 18:52:38 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:36 +0000"

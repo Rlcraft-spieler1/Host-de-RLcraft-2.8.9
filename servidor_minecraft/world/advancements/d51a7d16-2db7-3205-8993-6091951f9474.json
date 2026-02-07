@@ -981,6 +981,8 @@
     "criteria": {
       "skeleton": "2026-02-07 18:37:45 +0000",
       "husk": "2026-02-07 18:32:44 +0000",
+      "cave_spider": "2026-02-07 18:54:18 +0000",
+      "zombie": "2026-02-07 18:54:25 +0000",
       "creeper": "2026-02-07 18:31:32 +0000"
     },
     "done": false
@@ -1639,6 +1641,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-07 18:50:53 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
@@ -1951,6 +1959,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-07 18:53:24 +0000"
     },
     "done": true
   },
@@ -3248,6 +3262,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-02-07 18:55:01 +0000"
     },
     "done": true
   },

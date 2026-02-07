@@ -8,3 +8,7 @@ WoodPile,346,350,609,613
 WoodPile,406,410,729,733
 VillageWoodMill,316,329,600,616
 SmallClockworkSite,271,293,738,757
+StonePlantMound3,356,367,757,766
+StonePlantMound4,486,493,775,782
+BrickHenge,503,519,826,842
+BlazeSpawnerCrystal,462,468,878,884

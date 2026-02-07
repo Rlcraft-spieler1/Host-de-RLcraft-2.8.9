@@ -1,0 +1,4 @@
+DinosaurSkull,1136,1155,485,496
+StonePlantMound2,1261,1273,387,400
+WoodWallRemains,1321,1349,397,405
+ClayWaterMound1,1245,1255,339,350
