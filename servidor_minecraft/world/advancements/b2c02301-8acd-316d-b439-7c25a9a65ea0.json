@@ -1331,6 +1331,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedpart": {
+    "criteria": {
+      "advtwistedpart": "2026-02-07 23:50:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/umbran_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:29 +0000"
@@ -1807,10 +1813,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "deep_ocean": "2026-02-07 23:47:02 +0000",
       "beaches": "2026-02-07 18:59:37 +0000",
       "savanna": "2026-02-07 18:18:29 +0000",
       "plains": "2026-02-07 18:29:33 +0000",
       "savanna_rock": "2026-02-07 18:21:17 +0000",
+      "ocean": "2026-02-07 23:46:10 +0000",
       "river": "2026-02-07 18:35:14 +0000",
       "desert": "2026-02-07 18:19:29 +0000"
     },
@@ -2961,6 +2969,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2026-02-07 18:18:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "craft": "2026-02-07 23:44:03 +0000"
     },
     "done": true
   },
