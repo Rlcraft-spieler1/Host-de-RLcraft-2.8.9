@@ -93,42 +93,135 @@
       }
     },
     {
-      "weight": 2.0475566387176514,
-      "min": 1,
-      "max": 32,
-      "item": {
-        "id": "lycanitesmobs:embercharge",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 1.5121370553970337,
+      "weight": 0.32298368215560913,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:potion",
+        "id": "minecraft:enchanted_book",
         "damage": 0,
         "count": 1,
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "Potion": {
-              "nbtType": "string",
-              "nbt": "minecraft:fire_resistance"
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 96
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
             }
           }
         }
       }
     },
     {
-      "weight": 0.5354365706443787,
+      "weight": 0.32298368215560913,
       "min": 1,
-      "max": 8,
+      "max": 1,
       "item": {
-        "id": "minecraft:blaze_powder",
+        "id": "minecraft:enchanted_book",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 77
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 137
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 90
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
       }
     }
   ],

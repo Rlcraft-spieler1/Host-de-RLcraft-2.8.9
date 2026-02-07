@@ -163,7 +163,7 @@
       }
     },
     {
-      "weight": 3.124999523162842,
+      "weight": 4.63,
       "min": 1,
       "max": 1,
       "item": {
@@ -173,80 +173,22 @@
       }
     },
     {
-      "weight": 0.5354365706443787,
+      "weight": 0.5889394283294678,
       "min": 1,
-      "max": 16,
+      "max": 64,
       "item": {
-        "id": "minecraft:feather",
+        "id": "minecraft:nether_wart",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.5354365706443787,
+      "weight": 0.5889394283294678,
       "min": 1,
-      "max": 8,
+      "max": 64,
       "item": {
-        "id": "iceandfire:amphithere_feather",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.5354365706443787,
-      "min": 1,
-      "max": 8,
-      "item": {
-        "id": "iceandfire:stymphalian_bird_feather",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 1.0,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "minecraft:potion",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "Potion": {
-              "nbtType": "string",
-              "nbt": "potioncore:strong_slow_fall"
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 1.0,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "minecraft:potion",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "Potion": {
-              "nbtType": "string",
-              "nbt": "potioncore:flight"
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 1.0,
-      "min": 1,
-      "max": 32,
-      "item": {
-        "id": "lycanitesmobs:whirlwindcharge",
-        "damage": 0,
+        "id": "immersiveengineering:material",
+        "damage": 4,
         "count": 1
       }
     }

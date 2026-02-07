@@ -4,8 +4,26 @@
       "name": "minecraft:milk_bucket",
       "metadata": 0
     },
-    "thirst": 6,
-    "hydration": 0.7,
+    "thirst": 10,
+    "hydration": 10.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "minecraft:potion",
+      "metadata": 0
+    },
+    "thirst": 10,
+    "hydration": 10.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "betteranimalsplus:goatmilk",
+      "metadata": 0
+    },
+    "thirst": 10,
+    "hydration": 10.0,
     "poisonChance": 0.0
   }
 ]

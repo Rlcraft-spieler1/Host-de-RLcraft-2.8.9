@@ -1,5 +1,0 @@
-StoneBoulder,-15766,-15757,13556,13565
-UndergroundCrypt,-15749,-15735,13568,13596
-RLCraft_SmallUndergroundSkeleton,-15798,-15790,13536,13544
-StonePlantMound1,-15754,-15748,13596,13602
-StonePlantMound2,-15657,-15645,13536,13549

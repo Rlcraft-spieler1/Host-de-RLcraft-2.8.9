@@ -1,0 +1,13 @@
+VillageWoodMill,22,38,-30,-17
+VillageMarketplace,54,68,-11,3
+VillageForgeLarge,3,19,38,50
+VillageHouseRich,28,47,46,61
+VillageHouseRich1,38,59,66,84
+BigClockworkSite,167,202,-81,-36
+ShrineSmallAir,228,236,-373,-365
+SmallClockworkSite,288,307,-363,-341
+StonePlantMound2,267,280,15,27
+MeteorSite,250,280,6,21
+StonePlantBoulder,386,396,29,39
+StonePlantBoulder,412,422,-39,-29
+SmallClockworkSite,434,456,54,73

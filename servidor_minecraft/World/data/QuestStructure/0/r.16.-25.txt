@@ -1,6 +1,0 @@
-StoneBoulder,8372,8381,-13196,-13187
-RLCraft_BasicSkeleton,8351,8351,-13270,-13270
-RLCraft_UndergroundRuin1,8348,8357,-13273,-13264
-StonePlantMound1,8434,8440,-13197,-13191
-WoodThornBig,8359,8372,-13293,-13280
-ShrineSmallWater,8302,8310,-13137,-13129

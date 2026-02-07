@@ -1,2 +1,0 @@
-RLCraft_NetherPortal1_Chiom,4660,4696,3238,3269
-StonePlantMound3,4681,4690,3214,3225

@@ -3,81 +3,81 @@
   "inventoryGeneratorID": "RichVillageHouse",
   "items": [
     {
-      "weight": 0.5354365706443787,
+      "weight": 1.0,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "variedcommodities:chain_skirt",
+        "id": "minecraft:leather_chestplate",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.5354365706443787,
+      "weight": 1.0,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "variedcommodities:golden_skirt",
+        "id": "minecraft:leather_helmet",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.5354365706443787,
+      "weight": 1.0,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "variedcommodities:iron_skirt",
+        "id": "minecraft:leather_leggings",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.5354365706443787,
+      "weight": 1.0,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "variedcommodities:diamond_skirt",
+        "id": "minecraft:leather_boots",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.32298368215560913,
+      "weight": 0.31,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:golden_helmet",
+        "id": "minecraft:iron_chestplate",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.32298368215560913,
+      "weight": 0.31,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:golden_chestplate",
+        "id": "minecraft:iron_helmet",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.32298368215560913,
+      "weight": 0.31,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:golden_leggings",
+        "id": "minecraft:iron_boots",
         "damage": 0,
         "count": 1
       }
     },
     {
-      "weight": 0.32298368215560913,
+      "weight": 0.38,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:golden_boots",
+        "id": "minecraft:iron_leggings",
         "damage": 0,
         "count": 1
       }
@@ -117,7 +117,7 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "minecraft:golden_sword",
+        "id": "minecraft:wooden_sword",
         "damage": 0,
         "count": 1
       }
@@ -165,7 +165,7 @@
     {
       "weight": 3.04,
       "min": 1,
-      "max": 32,
+      "max": 23,
       "item": {
         "id": "minecraft:bread",
         "damage": 0,
@@ -175,7 +175,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 8,
+      "max": 29,
       "item": {
         "id": "minecraft:potato",
         "damage": 0,
@@ -185,7 +185,7 @@
     {
       "weight": 0.41,
       "min": 1,
-      "max": 16,
+      "max": 64,
       "item": {
         "id": "minecraft:pumpkin_pie",
         "damage": 0,
@@ -195,7 +195,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 16,
+      "max": 36,
       "item": {
         "id": "minecraft:apple",
         "damage": 0,
@@ -205,7 +205,7 @@
     {
       "weight": 1.86,
       "min": 1,
-      "max": 8,
+      "max": 37,
       "item": {
         "id": "minecraft:carrot",
         "damage": 0,
@@ -215,7 +215,7 @@
     {
       "weight": 2.9,
       "min": 1,
-      "max": 8,
+      "max": 29,
       "item": {
         "id": "minecraft:potato",
         "damage": 0,
@@ -225,7 +225,7 @@
     {
       "weight": 2.1,
       "min": 1,
-      "max": 8,
+      "max": 37,
       "item": {
         "id": "minecraft:porkchop",
         "damage": 0,
@@ -235,7 +235,7 @@
     {
       "weight": 1.62,
       "min": 1,
-      "max": 8,
+      "max": 30,
       "item": {
         "id": "minecraft:fish",
         "damage": 0,
@@ -247,79 +247,414 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "simpledifficulty:purified_water_bottle",
+        "id": "minecraft:potion",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:water"
+            }
+          }
+        }
       }
     },
     {
-      "weight": 0.32298368215560913,
+      "weight": 0.2,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "simpledifficulty:juice",
-        "damage": 5,
-        "count": 1
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 41
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
       }
     },
     {
-      "weight": 1.0,
+      "weight": 0.2,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "simpledifficulty:juice",
-        "damage": 3,
-        "count": 1
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 44
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
       }
     },
     {
-      "weight": 1.0,
+      "weight": 0.2,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "simpledifficulty:juice",
+        "id": "minecraft:enchanted_book",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 47
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
       }
     },
     {
-      "weight": 1.0,
-      "min": 1,
-      "max": 8,
-      "item": {
-        "id": "foodexpansion:itemcookedbacon",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 1.0,
-      "min": 1,
-      "max": 8,
-      "item": {
-        "id": "foodexpansion:itemfriedegg",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 1.0,
-      "min": 1,
-      "max": 8,
-      "item": {
-        "id": "foodexpansion:itemchocolatebar",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.20703016221523285,
+      "weight": 0.2,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "bountifulbaubles:crowngold",
+        "id": "minecraft:enchanted_book",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 55
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 88
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 77
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 137
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 90
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 96
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 165
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 127
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.2,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 15
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
       }
     }
   ],

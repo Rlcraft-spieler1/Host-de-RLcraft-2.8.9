@@ -5,33 +5,15 @@
     "values": [
       {
         "factor": 1,
-        "value": "srparasites:sim_human"
+        "value": "Zombie"
       },
-	  {
-        "factor": 1,
-        "value": "srparasites:sim_villager"
-      },
-	  {
-        "factor": 1,
-        "value": "srparasites:rupter"
-      }
-    ]
-  },
-  {
-    "type": "condition",
-    "name": "mediummobs",
-    "values": [
       {
         "factor": 1,
-        "value": "srparasites:grunt"
+        "value": "Skeleton"
       },
-	  {
+      {
         "factor": 1,
-        "value": "srparasites:pri_yelloweye"
-      },
-	  {
-        "factor": 1,
-        "value": "srparasites:pri_manducater"
+        "value": "Spider"
       }
     ]
   },
@@ -41,33 +23,11 @@
     "values": [
       {
         "factor": 1,
-        "value": "srparasites:sim_enderman"
+        "value": "Blaze"
       },
-	  {
-        "factor": 1,
-        "value": "srparasites:pri_summoner"
-      }
-    ]
-  },
-  {
-    "type": "condition",
-    "name": "ultramobs",
-    "values": [
       {
         "factor": 1,
-        "value": "srparasites:sim_bigspider"
-      },
-	  {
-        "factor": 1,
-        "value": "srparasites:pri_arachnida"
-      },
-	  {
-        "factor": 1,
-        "value": "srparasites:pri_reeker"
-      },
-	  {
-        "factor": 1,
-        "value": "srparasites:pri_longarms"
+        "value": "Witch"
       }
     ]
   },
@@ -76,41 +36,28 @@
     "name": "chestloot",
     "values": [
       {
-        "factor": 50,
-        "value": "loottweaker:lostcityhighrise",
-        "range": "5,100"
+        "factor": 10,
+        "value": "lt:ingotTable"
       },
       {
-        "factor": 50,
-        "value": "loottweaker:lostcityground",
-        "range": "0,3"
+        "factor": 10,
+        "value": "lt:immersiveTable"
       },
       {
-        "factor": 50,
-        "value": "loottweaker:lostcitybasement",
-        "range": "-100,-1"
+        "factor": 10,
+        "value": "lt:reinforcementTable"
       },
       {
-        "factor": 69420,
-        "value": "loottweaker:lostcitysubway",
-        "inpart": "rail_dungeon1"
-      },
-      {
-        "factor": 69420,
-        "value": "loottweaker:lostcitysubway",
-        "inpart": "rail_dungeon2"
+        "factor": 10,
+        "value": "lt:tntTable"
       },
       {
         "factor": 5,
-        "value": "loottweaker:lostcityrare"
+        "value": "lt:immersiveTableH"
       },
       {
-        "factor": 30,
-        "value": "loottweaker:lostcityuncommon"
-      },
-      {
-        "factor": 50,
-        "value": "loottweaker:lostcitycommon"
+        "factor": 5,
+        "value": "lt:gunTable"
       }
     ]
   }

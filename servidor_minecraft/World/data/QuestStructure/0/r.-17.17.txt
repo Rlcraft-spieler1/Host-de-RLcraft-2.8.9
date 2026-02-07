@@ -1,8 +1,0 @@
-StoneIceBoulder,-9142,-9132,8753,8762
-ShrineSmallAir,-9003,-8995,8708,8716
-RLCraft_DecentCaveSpider,-9171,-9171,8775,8775
-RLCraft_UndergroundRuin3,-9176,-9168,8773,8781
-BlazeSpawnerCrystal,-8986,-8980,8739,8745
-PirateChest,-9176,-9172,8817,8821
-StoneIceBoulder1,-9051,-9041,8804,8814
-StoneIceBoulder1,-8971,-8961,8749,8759
