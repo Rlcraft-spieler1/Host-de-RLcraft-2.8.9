@@ -4,3 +4,5 @@ StonePlantMound1,594,600,484,490
 SmallAbandonedMine,502,527,480,495
 StonePlantMound1,601,607,498,504
 StonePlantMound2,557,569,497,510
+ShrineSmallFire,704,714,96,106
+DinosaurSkeleton,675,721,314,323

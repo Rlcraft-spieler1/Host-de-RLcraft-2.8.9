@@ -132,3 +132,8 @@ DinosaurSkeleton,1149,1195,605,614
 DinosaurSkeleton,1300,1346,715,724
 UndergroundTreeoid,1368,1394,660,683
 ShrineSmallFire,1423,1433,754,764
+ShrineSmallFire,1418,1428,932,942
+StonePlantMound1,1168,1174,950,956
+ShrineSmallFire,1131,1141,817,827
+StonePlantMound4,1088,1095,927,934
+PeacefulCrypt,1018,1034,899,923

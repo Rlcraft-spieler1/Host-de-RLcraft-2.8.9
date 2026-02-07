@@ -1,0 +1,8 @@
+MeteorSite,1342,1372,1017,1032
+StonePlantBoulder,1096,1106,1029,1039
+SmallWoodenCottage1,1344,1350,1056,1067
+StonePlantMound3,1124,1133,1064,1075
+SmallAbandonedMine,1043,1058,1022,1047
+StonePlantMound4,1070,1077,1089,1096
+StonePlantMound3,1171,1182,1093,1102
+DinosaurSkull,1061,1072,1185,1204
