@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-02-08 01:47:36 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -974,6 +980,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2026-02-08 00:55:41 +0000",
+      "skeleton": "2026-02-08 01:43:31 +0000",
       "zombie": "2026-02-08 00:54:44 +0000",
       "spider": "2026-02-08 01:23:18 +0000",
       "creeper": "2026-02-08 01:35:02 +0000"
@@ -3271,6 +3278,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-02-08 01:45:04 +0000"
     },
     "done": true
   },

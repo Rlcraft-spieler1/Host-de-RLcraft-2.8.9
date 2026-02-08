@@ -345,3 +345,17 @@ WoodThornBig,800,813,109,122
 StonePlantMound,838,843,-130,-125
 StonePlantMound,846,851,-56,-51
 StoneBoulder,868,877,-52,-43
+ShrineSmallEarth,950,962,-223,-211
+StonePlantMound,988,993,-138,-133
+StonePlantMound2,992,1004,-87,-74
+SpiderPit,1014,1024,-225,-216
+StoneLeafMound,1002,1011,-129,-122
+WoodPile,1000,1004,-92,-88
+SmallCart,1021,1025,-5,2
+StonePlantMound3,955,966,30,39
+StonePlantMound3,966,977,46,55
+StonePlantBoulder,939,949,78,88
+BrickHenge,990,1006,68,84
+StonePlantMound,946,951,109,114
+StonePlantBoulder,782,792,130,140
+SmallWoodenCottage2,845,853,157,165

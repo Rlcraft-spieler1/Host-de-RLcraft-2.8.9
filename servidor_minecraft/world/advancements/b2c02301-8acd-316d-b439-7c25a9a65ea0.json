@@ -1812,6 +1812,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2026-02-08 01:44:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
@@ -3760,6 +3766,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2026-02-08 01:44:59 +0000"
     },
     "done": true
   },

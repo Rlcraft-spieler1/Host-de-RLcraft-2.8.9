@@ -3754,6 +3754,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2026-02-08 01:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:26 +0000"

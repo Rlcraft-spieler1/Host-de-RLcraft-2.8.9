@@ -120,3 +120,4 @@ WoodThorn,205,216,212,223
 StoneBoulder,174,183,226,235
 SmallWoodenCottage,174,185,203,211
 StonePlantMound,60,65,197,202
+StonePlantMound2,-191,-179,52,65

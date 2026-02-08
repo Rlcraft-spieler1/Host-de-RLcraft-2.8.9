@@ -1,0 +1,8 @@
+StonePlantBoulder,1054,1064,-136,-126
+StonePlantBoulder,1080,1090,-36,-26
+StoneBoulder,1089,1098,-10,-1
+PeacefulCrypt,1047,1063,-285,-261
+SmallAbandonedMine,1212,1227,-155,-130
+StonePlantMound4,1263,1270,-301,-294
+DinosaurSkeleton,1234,1243,-303,-257
+StonePlantMound3,1223,1232,-102,-91
