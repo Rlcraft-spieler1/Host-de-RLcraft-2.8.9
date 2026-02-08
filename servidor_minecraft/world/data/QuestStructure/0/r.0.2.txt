@@ -1,8 +1,0 @@
-ShrineSmallAir,-191,-183,1098,1106
-StonePlantBoulder,-238,-228,1184,1194
-StonePlantMound2,-260,-247,1189,1201
-StonePlantBoulder,-239,-229,1213,1223
-StoneBoulder,-186,-177,1273,1282
-DesertHut,-405,-395,1251,1260
-DesertWatchtower,-424,-414,1058,1068
-DesertHut,-433,-423,1137,1146

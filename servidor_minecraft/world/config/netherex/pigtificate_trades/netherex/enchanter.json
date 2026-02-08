@@ -60,7 +60,7 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "somanyenchantments:flinging",
+						"enchantment": "somanyenchantments:pulling",
 						"enchantmentLevel": 2
 					}
 				],

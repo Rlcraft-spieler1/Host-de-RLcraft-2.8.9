@@ -1,2 +1,0 @@
-DesertBeacon,889,895,1067,1073
-LonePillars,841,998,1234,1241
