@@ -1,2 +1,0 @@
-identifier = Contribuitors
-allowesc = true

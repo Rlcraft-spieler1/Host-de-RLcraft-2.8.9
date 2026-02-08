@@ -1,37 +1,13 @@
 [
   {
-    "uuid": "b2c02301-8acd-316d-b439-7c25a9a65ea0",
-    "name": "Dalviabee",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "4676a658-af2c-37f4-9d57-7d201e6eb530",
-    "name": "yoonnaaaa",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "d51a7d16-2db7-3205-8993-6091951f9474",
-    "name": "latamvp",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "9298462a-5777-3938-bb43-24359351d49c",
-    "name": "Martineli03",
+    "uuid": "5de55f99-9f06-33c5-810c-1ebca33e2dfb",
+    "name": "mrcripts",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
     "name": "spieler",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "1c53ca75-2af3-3177-bf4c-73b05a8c1c4c",
-    "name": "TPainterJL",
     "level": 4,
     "bypassesPlayerLimit": false
   }

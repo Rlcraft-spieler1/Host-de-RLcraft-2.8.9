@@ -1,672 +1,93 @@
 {
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:wood_nunchaku": {
-    "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "mysticalworld:root": {
-    "criteria": {
-      "auto": "2026-02-08 00:28:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wooden_slab": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_fir": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:50:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_pine": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2026-02-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2026-02-08 00:37:24 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:stone_nunchaku": {
-    "criteria": {
-      "has_stone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2026-02-08 00:28:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sign": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/tiki_torches": {
-    "criteria": {
-      "torch": "2026-02-08 00:54:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2026-02-08 00:33:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_ethereal": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/glowstone_slab": {
-    "criteria": {
-      "has_wood": "2026-02-08 00:29:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_cherry": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2026-02-08 00:42:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fence": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2026-02-08 01:36:00 +0000",
-      "cooked_chicken": "2026-02-08 01:14:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/sea_lantern_slab": {
-    "criteria": {
-      "has_wood": "2026-02-08 00:29:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2026-02-08 00:50:24 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:33:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-02-08 01:34:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_ebony": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "nocubessrparmory:advsrparmoryroot": {
-    "criteria": {
-      "advsrparmoryroot": "2026-02-08 00:28:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_hellbark": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2026-02-08 00:34:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_mangrove": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/redstone_slab": {
-    "criteria": {
-      "has_wood": "2026-02-08 00:29:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:iron_nunchaku": {
-    "criteria": {
-      "has_iron": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_mahogany": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/lantern": {
-    "criteria": {
-      "lantern": "2026-02-08 00:54:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
+      "unlock_right_away": "2026-02-08 03:55:32 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2026-02-08 00:28:10 +0000",
-      "forest_hills": "2026-02-08 00:35:11 +0000",
-      "plains": "2026-02-08 00:34:27 +0000",
-      "river": "2026-02-08 00:38:16 +0000"
+      "minecraft:plains": "2026-02-08 03:55:33 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
+      "shot_arrow": "2026-02-08 04:02:26 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_classic": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_planks": "2026-02-08 00:33:59 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
-      "has_stick": "2026-02-08 00:34:47 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
-      "consumed_item": "2026-02-08 01:14:10 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "nocubessrpnests:advsrpnestsaddonroot": {
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
-      "advsrpnestsaddonroot": "2026-02-08 00:28:10 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_paper": {
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_planks": "2026-02-08 00:50:24 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_willow": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "betteranimalsplus:root": {
-    "criteria": {
-      "tick": "2026-02-08 00:28:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_redwood": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
+      "has_quartz_block": "2026-02-08 04:02:40 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_by_something": "2026-02-08 00:35:30 +0000"
+      "killed_by_something": "2026-02-08 04:03:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/paper_lamp": {
-    "criteria": {
-      "paper": "2026-02-08 00:54:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_jacaranda": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_umbran": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "nocubessrpsurvival:advparasitesurvivalroot": {
-    "criteria": {
-      "advparasitesurvivalroot": "2026-02-08 00:28:10 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/lava_lamp": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:29:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/garden_light": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:29:24 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_magic": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2026-02-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_palm": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2026-02-08 01:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_door": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
-    },
-    "done": true
-  }
+  "DataVersion": 3465
 }

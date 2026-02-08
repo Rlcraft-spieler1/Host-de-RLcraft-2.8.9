@@ -1,3 +1,0 @@
-identifier = Info
-title = 
-allowesc = true
