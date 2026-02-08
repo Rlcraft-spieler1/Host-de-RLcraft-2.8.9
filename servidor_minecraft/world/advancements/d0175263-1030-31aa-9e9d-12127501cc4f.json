@@ -968,7 +968,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2026-02-08 00:55:41 +0000",
-      "zombie": "2026-02-08 00:54:44 +0000"
+      "zombie": "2026-02-08 00:54:44 +0000",
+      "spider": "2026-02-08 01:23:18 +0000"
     },
     "done": false
   },
@@ -1953,6 +1954,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-08 01:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -2499,6 +2506,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-08 01:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -2580,7 +2593,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2026-02-08 01:18:43 +0000",
+      "cooked_mutton": "2026-02-08 01:21:16 +0000",
       "mutton": "2026-02-08 00:57:11 +0000",
+      "bread": "2026-02-08 01:29:22 +0000",
       "rotten_flesh": "2026-02-08 00:56:44 +0000"
     },
     "done": false
@@ -3744,6 +3759,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-08 01:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -4239,6 +4260,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-08 01:26:49 +0000"
     },
     "done": true
   },
