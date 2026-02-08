@@ -2579,6 +2579,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2026-02-08 01:18:43 +0000",
       "mutton": "2026-02-08 00:57:11 +0000",
       "rotten_flesh": "2026-02-08 00:56:44 +0000"
     },
@@ -3232,6 +3233,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-02-08 01:03:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -3637,6 +3644,13 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2026-02-08 01:08:13 +0000",
+      "red_flower": "2026-02-08 01:08:13 +0000"
     },
     "done": true
   },

@@ -113,3 +113,5 @@ StonePlantMound1,-309,-303,-260,-254
 StonePlantMound,-309,-304,-297,-292
 StonePlantMound,-327,-322,-106,-101
 StoneLeafMound,-325,-316,-271,-264
+StonePlantMound4,465,472,-335,-328
+StonePlantMound2,456,468,-379,-366

@@ -965,6 +965,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2026-02-08 01:15:04 +0000",
+      "spider": "2026-02-08 01:15:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
@@ -1667,6 +1674,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2026-02-08 01:11:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/ruby": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
@@ -1706,6 +1719,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2026-02-08 01:15:04 +0000"
     },
     "done": true
   },
@@ -1768,6 +1787,9 @@
       "forest": "2026-02-08 00:49:03 +0000",
       "forest_hills": "2026-02-08 00:50:39 +0000",
       "plains": "2026-02-08 00:50:40 +0000",
+      "taiga": "2026-02-08 01:05:37 +0000",
+      "taiga_hills": "2026-02-08 01:07:11 +0000",
+      "extreme_hills": "2026-02-08 01:10:43 +0000",
       "river": "2026-02-08 00:53:41 +0000"
     },
     "done": false
@@ -1919,6 +1941,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-08 01:12:03 +0000"
     },
     "done": true
   },
@@ -2564,6 +2592,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2026-02-08 01:02:12 +0000",
+      "bread": "2026-02-08 01:07:51 +0000"
+    },
+    "done": false
+  },
   "trashcans:recipes/ultimate_trash_can": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
@@ -2813,6 +2848,12 @@
   "biomesoplenty:recipes/buildingblocks/mahogany_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bear_killed_player": {
+    "criteria": {
+      "bear_kill2": "2026-02-08 01:03:04 +0000"
     },
     "done": true
   },
@@ -4211,6 +4252,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-08 01:10:51 +0000"
     },
     "done": true
   },

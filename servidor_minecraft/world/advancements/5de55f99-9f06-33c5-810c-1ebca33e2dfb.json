@@ -104,6 +104,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-08 01:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2026-02-08 00:39:12 +0000"
@@ -379,6 +385,12 @@
       "has_planks": "2026-02-08 00:34:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2026-02-08 01:14:10 +0000"
+    },
+    "done": false
   },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {

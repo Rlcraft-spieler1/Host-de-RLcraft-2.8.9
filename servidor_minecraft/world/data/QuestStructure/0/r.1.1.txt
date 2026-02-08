@@ -1,2 +1,4 @@
 StonePlantMound4,544,551,530,537
 StonePlantMound,536,541,596,601
+StonePlantMound3,550,559,551,562
+StonePlantBoulder,612,622,578,588

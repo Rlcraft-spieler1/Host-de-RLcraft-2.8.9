@@ -982,7 +982,8 @@
     "criteria": {
       "skeleton": "2026-02-08 00:31:32 +0000",
       "zombie": "2026-02-08 00:37:12 +0000",
-      "spider": "2026-02-08 00:53:51 +0000"
+      "spider": "2026-02-08 00:53:51 +0000",
+      "creeper": "2026-02-08 01:19:45 +0000"
     },
     "done": false
   },
@@ -2629,6 +2630,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-02-08 00:42:42 +0000",
+      "cooked_beef": "2026-02-08 01:18:07 +0000",
+      "pumpkin_pie": "2026-02-08 01:15:28 +0000",
       "mutton": "2026-02-08 00:33:35 +0000",
       "bread": "2026-02-08 00:50:08 +0000",
       "rotten_flesh": "2026-02-08 00:38:12 +0000"
@@ -3280,6 +3283,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-02-08 01:15:01 +0000"
     },
     "done": true
   },

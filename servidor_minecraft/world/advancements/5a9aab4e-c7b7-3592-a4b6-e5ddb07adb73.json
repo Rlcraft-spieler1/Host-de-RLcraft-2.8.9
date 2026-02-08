@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-08 01:02:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/bamboo_terrarium": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:39:23 +0000"
@@ -1638,6 +1644,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-08 01:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:39:23 +0000"
@@ -1746,6 +1758,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "craft": "2026-02-08 01:01:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:39:23 +0000"
@@ -1785,8 +1803,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2026-02-08 00:39:23 +0000",
+      "extreme_hills_with_trees": "2026-02-08 01:09:24 +0000",
       "forest_hills": "2026-02-08 00:43:12 +0000",
-      "plains": "2026-02-08 00:41:07 +0000"
+      "plains": "2026-02-08 00:41:07 +0000",
+      "extreme_hills": "2026-02-08 01:08:12 +0000",
+      "river": "2026-02-08 01:16:07 +0000"
     },
     "done": false
   },
@@ -2590,6 +2611,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2026-02-08 01:14:24 +0000",
       "melon": "2026-02-08 00:57:51 +0000",
       "cooked_chicken": "2026-02-08 00:47:32 +0000"
     },
