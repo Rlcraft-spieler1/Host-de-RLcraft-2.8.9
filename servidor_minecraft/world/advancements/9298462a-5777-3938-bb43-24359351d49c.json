@@ -1633,15 +1633,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-02-07 20:02:20 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-07 19:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-07 20:02:20 +0000"
     },
     "done": true
   },
@@ -1955,15 +1955,15 @@
     },
     "done": true
   },
-  "appliedenergistics2:main/root": {
-    "criteria": {
-      "certus": "2026-02-07 19:59:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-07 19:37:27 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-07 19:59:03 +0000"
     },
     "done": true
   },
@@ -2615,18 +2615,18 @@
     },
     "done": true
   },
+  "trashcans:recipes/ultimate_trash_can": {
+    "criteria": {
+      "has_the_recipe": "2026-02-07 19:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2026-02-07 19:46:28 +0000",
       "bread": "2026-02-07 19:52:27 +0000"
     },
     "done": false
-  },
-  "trashcans:recipes/ultimate_trash_can": {
-    "criteria": {
-      "has_the_recipe": "2026-02-07 19:37:27 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

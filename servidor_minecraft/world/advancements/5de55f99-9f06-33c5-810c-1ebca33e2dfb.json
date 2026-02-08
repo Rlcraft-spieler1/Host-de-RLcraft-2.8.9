@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-02-07 23:54:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2026-02-07 23:49:01 +0000"
@@ -1759,7 +1765,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "savanna": "2026-02-07 23:50:44 +0000",
+      "savanna": "2026-02-07 23:49:01 +0000",
       "savanna_rock": "2026-02-07 23:50:47 +0000",
       "desert": "2026-02-07 23:49:01 +0000"
     },
@@ -4180,6 +4186,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-07 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-08 00:00:55 +0000"
     },
     "done": true
   },
