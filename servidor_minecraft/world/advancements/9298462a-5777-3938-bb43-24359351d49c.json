@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-02-08 02:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
@@ -1800,6 +1806,7 @@
       "forest": "2026-02-08 00:26:01 +0000",
       "forest_hills": "2026-02-08 00:36:06 +0000",
       "plains": "2026-02-08 00:27:21 +0000",
+      "taiga_hills": "2026-02-08 02:05:26 +0000",
       "extreme_hills": "2026-02-08 00:43:25 +0000",
       "river": "2026-02-08 00:29:43 +0000"
     },
@@ -2629,6 +2636,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-02-08 02:04:08 +0000",
       "cooked_beef": "2026-02-08 01:08:18 +0000",
       "apple": "2026-02-08 00:39:19 +0000",
       "bread": "2026-02-08 00:45:42 +0000",

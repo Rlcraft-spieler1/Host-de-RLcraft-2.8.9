@@ -975,6 +975,7 @@
     "criteria": {
       "skeleton": "2026-02-08 00:35:35 +0000",
       "zombie": "2026-02-08 00:34:46 +0000",
+      "cave_spider": "2026-02-08 02:02:06 +0000",
       "spider": "2026-02-08 00:39:53 +0000",
       "creeper": "2026-02-08 00:36:54 +0000"
     },
@@ -1790,6 +1791,7 @@
       "forest_hills": "2026-02-08 00:38:10 +0000",
       "plains": "2026-02-08 00:29:21 +0000",
       "taiga": "2026-02-08 01:15:58 +0000",
+      "taiga_hills": "2026-02-08 02:03:03 +0000",
       "river": "2026-02-08 00:42:13 +0000"
     },
     "done": false
@@ -2598,6 +2600,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/ultimate_trash_can": {
+    "criteria": {
+      "has_the_recipe": "2026-02-08 00:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2026-02-08 00:33:06 +0000",
@@ -2606,12 +2614,6 @@
       "cooked_chicken": "2026-02-08 00:36:37 +0000"
     },
     "done": false
-  },
-  "trashcans:recipes/ultimate_trash_can": {
-    "criteria": {
-      "has_the_recipe": "2026-02-08 00:26:26 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -3754,15 +3756,15 @@
     },
     "done": true
   },
-  "nocubessrparmory:advtwisteddagger": {
-    "criteria": {
-      "advtwisteddagger": "2026-02-08 01:45:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2026-02-08 01:45:12 +0000"
     },
     "done": true
   },
