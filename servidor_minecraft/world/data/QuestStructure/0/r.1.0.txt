@@ -341,3 +341,7 @@ StonePlantMound,707,712,-257,-252
 StonePlantMound4,511,518,-352,-345
 UnnaturalCrater,769,809,-256,-216
 StonePlantMound1,520,526,-387,-381
+WoodThornBig,800,813,109,122
+StonePlantMound,838,843,-130,-125
+StonePlantMound,846,851,-56,-51
+StoneBoulder,868,877,-52,-43

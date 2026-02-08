@@ -116,3 +116,7 @@ StoneLeafMound,-325,-316,-271,-264
 StonePlantMound4,465,472,-335,-328
 StonePlantMound2,456,468,-379,-366
 WoodPile,123,127,148,152
+WoodThorn,205,216,212,223
+StoneBoulder,174,183,226,235
+SmallWoodenCottage,174,185,203,211
+StonePlantMound,60,65,197,202

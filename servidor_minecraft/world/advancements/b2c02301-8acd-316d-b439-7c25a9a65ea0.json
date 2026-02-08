@@ -1944,15 +1944,15 @@
     },
     "done": true
   },
-  "appliedenergistics2:main/root": {
-    "criteria": {
-      "certus": "2026-02-08 01:12:03 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/hellbark_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-08 01:12:03 +0000"
     },
     "done": true
   },
@@ -1965,6 +1965,12 @@
   "biomesoplenty:recipes/buildingblocks/eucalyptus_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-08 01:37:06 +0000"
     },
     "done": true
   },
@@ -2514,6 +2520,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-08 01:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
@@ -2592,18 +2604,18 @@
     },
     "done": true
   },
+  "trashcans:recipes/ultimate_trash_can": {
+    "criteria": {
+      "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2026-02-08 01:02:12 +0000",
       "bread": "2026-02-08 01:07:51 +0000"
     },
     "done": false
-  },
-  "trashcans:recipes/ultimate_trash_can": {
-    "criteria": {
-      "has_the_recipe": "2026-02-08 00:49:03 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -3754,6 +3766,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-08 01:37:06 +0000"
     },
     "done": true
   },

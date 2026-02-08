@@ -979,8 +979,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2026-02-08 01:35:59 +0000",
       "skeleton": "2026-02-08 00:43:23 +0000",
-      "zombie": "2026-02-08 00:54:34 +0000"
+      "zombie": "2026-02-08 00:54:34 +0000",
+      "creeper": "2026-02-08 01:36:05 +0000"
     },
     "done": false
   },
@@ -1807,6 +1809,7 @@
       "forest_hills": "2026-02-08 00:43:12 +0000",
       "plains": "2026-02-08 00:41:07 +0000",
       "taiga": "2026-02-08 01:25:07 +0000",
+      "taiga_hills": "2026-02-08 01:33:09 +0000",
       "extreme_hills": "2026-02-08 01:08:12 +0000",
       "river": "2026-02-08 01:16:07 +0000"
     },
@@ -1977,6 +1980,12 @@
   "biomesoplenty:recipes/buildingblocks/eucalyptus_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:39:23 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-08 01:38:44 +0000"
     },
     "done": true
   },
@@ -2526,6 +2535,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-08 01:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:39:23 +0000"
@@ -2613,6 +2628,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2026-02-08 01:14:24 +0000",
+      "cooked_beef": "2026-02-08 01:39:05 +0000",
       "melon": "2026-02-08 00:57:51 +0000",
       "cooked_chicken": "2026-02-08 00:47:32 +0000"
     },
@@ -3767,6 +3783,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:39:23 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-08 01:38:44 +0000"
     },
     "done": true
   },

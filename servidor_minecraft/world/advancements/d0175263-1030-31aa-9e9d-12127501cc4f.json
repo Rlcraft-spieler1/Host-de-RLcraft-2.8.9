@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-08 01:35:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/bamboo_terrarium": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -969,7 +975,8 @@
     "criteria": {
       "zombie_villager": "2026-02-08 00:55:41 +0000",
       "zombie": "2026-02-08 00:54:44 +0000",
-      "spider": "2026-02-08 01:23:18 +0000"
+      "spider": "2026-02-08 01:23:18 +0000",
+      "creeper": "2026-02-08 01:35:02 +0000"
     },
     "done": false
   },
@@ -1405,6 +1412,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-02-08 01:36:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
@@ -1624,6 +1637,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-08 01:32:53 +0000"
     },
     "done": true
   },
@@ -1933,6 +1952,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2026-02-08 01:38:38 +0000"
     },
     "done": true
   },
@@ -2594,6 +2619,7 @@
     "criteria": {
       "chicken": "2026-02-08 01:18:43 +0000",
       "cooked_mutton": "2026-02-08 01:21:16 +0000",
+      "apple": "2026-02-08 01:37:47 +0000",
       "mutton": "2026-02-08 00:57:11 +0000",
       "bread": "2026-02-08 01:29:22 +0000",
       "rotten_flesh": "2026-02-08 00:56:44 +0000"
@@ -3317,6 +3343,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2026-02-08 01:38:22 +0000"
     },
     "done": true
   },
