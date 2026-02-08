@@ -965,6 +965,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2026-02-08 00:35:06 +0000",
+      "creeper": "2026-02-08 00:39:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
@@ -1619,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-08 00:31:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
@@ -1709,6 +1722,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2026-02-08 00:35:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
@@ -1766,6 +1785,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2026-02-08 00:26:01 +0000",
+      "forest_hills": "2026-02-08 00:36:06 +0000",
       "plains": "2026-02-08 00:27:21 +0000",
       "river": "2026-02-08 00:29:43 +0000"
     },
@@ -1798,6 +1818,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2026-02-08 00:39:24 +0000"
     },
     "done": true
   },
@@ -2565,6 +2591,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2026-02-08 00:39:19 +0000",
       "cooked_chicken": "2026-02-08 00:29:57 +0000"
     },
     "done": false
@@ -3631,6 +3658,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2026-02-08 00:33:27 +0000",
+      "red_flower": "2026-02-08 00:33:27 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
@@ -4216,6 +4250,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-08 00:31:27 +0000"
     },
     "done": true
   },

@@ -1,3 +1,10 @@
 StoneBoulder,176,185,-523,-514
 StonePlantMound1,0,6,-576,-570
 StoneLeafMound,180,187,-577,-568
+WoodThornBig,147,160,-593,-580
+StonePlantMound4,338,345,-576,-569
+StoneBoulder,333,342,-527,-518
+AbandonedWoodTower,202,238,-625,-595
+StoneLeafMound,81,90,-657,-650
+StonePlantMound2,377,390,-551,-539
+StonePlantBoulder,368,378,-603,-593

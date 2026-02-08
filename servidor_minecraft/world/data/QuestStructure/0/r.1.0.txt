@@ -1,1 +1,16 @@
 StonePlantMound1,511,517,-187,-181
+StonePlantMound1,554,560,36,42
+StoneBoulder,575,584,-224,-215
+StonePlantMound4,528,535,57,64
+SmallCart,595,602,-180,-176
+UndergroundCrypt,613,641,4,18
+StonePlantMound4,620,627,-116,-109
+WoodPile,648,652,-122,-118
+StonePlantMound2,645,657,-138,-125
+WoodThorn,677,688,-2,9
+StonePlantMound,682,687,-71,-66
+StonePlantMound4,676,683,45,52
+StoneLeafMound,675,684,-106,-99
+StonePlantMound,690,695,71,76
+StonePlantMound1,697,703,-130,-124
+WoodPile,696,700,65,69
