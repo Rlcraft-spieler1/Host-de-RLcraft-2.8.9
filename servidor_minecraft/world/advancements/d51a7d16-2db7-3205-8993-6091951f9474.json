@@ -1788,7 +1788,8 @@
     "criteria": {
       "forest": "2026-02-08 00:26:26 +0000",
       "forest_hills": "2026-02-08 00:38:10 +0000",
-      "plains": "2026-02-08 00:29:21 +0000"
+      "plains": "2026-02-08 00:29:21 +0000",
+      "river": "2026-02-08 00:42:13 +0000"
     },
     "done": false
   },
@@ -2599,6 +2600,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2026-02-08 00:33:06 +0000",
+      "bread": "2026-02-08 00:40:40 +0000",
       "cooked_chicken": "2026-02-08 00:36:37 +0000"
     },
     "done": false
@@ -3662,6 +3664,13 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-08 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2026-02-08 00:51:41 +0000",
+      "red_flower": "2026-02-08 00:51:41 +0000"
     },
     "done": true
   },

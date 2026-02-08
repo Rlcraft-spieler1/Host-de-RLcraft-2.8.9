@@ -981,7 +981,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2026-02-08 00:31:32 +0000",
-      "zombie": "2026-02-08 00:37:12 +0000"
+      "zombie": "2026-02-08 00:37:12 +0000",
+      "spider": "2026-02-08 00:53:51 +0000"
     },
     "done": false
   },
@@ -1386,6 +1387,14 @@
       "has_the_recipe": "2026-02-08 00:23:33 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "peridot": "2026-02-08 00:57:22 +0000",
+      "emerald": "2026-02-08 00:49:30 +0000",
+      "tanzanite": "2026-02-08 00:48:31 +0000"
+    },
+    "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -1806,6 +1815,9 @@
       "forest": "2026-02-08 00:23:34 +0000",
       "forest_hills": "2026-02-08 00:26:37 +0000",
       "plains": "2026-02-08 00:25:21 +0000",
+      "taiga": "2026-02-08 00:41:06 +0000",
+      "taiga_hills": "2026-02-08 00:42:42 +0000",
+      "extreme_hills": "2026-02-08 00:47:56 +0000",
       "river": "2026-02-08 00:30:51 +0000"
     },
     "done": false
@@ -2616,7 +2628,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-02-08 00:42:42 +0000",
       "mutton": "2026-02-08 00:33:35 +0000",
+      "bread": "2026-02-08 00:50:08 +0000",
       "rotten_flesh": "2026-02-08 00:38:12 +0000"
     },
     "done": false

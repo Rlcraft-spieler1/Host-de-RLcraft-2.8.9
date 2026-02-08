@@ -26,9 +26,19 @@
       "uuid:8": "5de55f99-9f06-33c5-810c-1ebca33e2dfb"
     },
     "5:10": {
+      "name:8": "Dalviabee",
+      "isOP:1": 1,
+      "uuid:8": "b2c02301-8acd-316d-b439-7c25a9a65ea0"
+    },
+    "6:10": {
       "name:8": "TPainterJL",
       "isOP:1": 1,
       "uuid:8": "1c53ca75-2af3-3177-bf4c-73b05a8c1c4c"
+    },
+    "7:10": {
+      "name:8": "toomasa00",
+      "isOP:1": 0,
+      "uuid:8": "d0175263-1030-31aa-9e9d-12127501cc4f"
     }
   }
 }

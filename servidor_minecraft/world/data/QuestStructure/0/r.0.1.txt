@@ -1,0 +1,15 @@
+LargeCart,403,414,514,520
+StonePlantMound1,314,320,539,545
+StonePlantMound,344,349,552,557
+StonePlantMound3,469,478,560,571
+StonePlantMound3,408,419,566,575
+StonePlantBoulder,430,440,576,586
+SmallWoodenCottage1,277,288,608,614
+StoneLeafMound,232,239,593,602
+StonePlantMound4,225,232,538,545
+StonePlantMound3,217,226,585,596
+UndergroundCrypt,224,238,588,616
+StonePlantBoulder,193,203,508,518
+StonePlantMound,193,198,580,585
+StonePlantMound2,150,163,506,518
+DinosaurSkeleton,124,133,500,546

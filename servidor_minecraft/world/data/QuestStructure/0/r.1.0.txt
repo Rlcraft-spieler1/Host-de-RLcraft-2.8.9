@@ -14,3 +14,5 @@ StoneLeafMound,675,684,-106,-99
 StonePlantMound,690,695,71,76
 StonePlantMound1,697,703,-130,-124
 WoodPile,696,700,65,69
+StonePlantBoulder,659,669,-174,-164
+StonePlantMound2,711,723,-82,-69

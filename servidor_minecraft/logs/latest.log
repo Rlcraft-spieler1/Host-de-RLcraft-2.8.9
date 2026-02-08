@@ -8317,3 +8317,449 @@ com.google.gson.JsonSyntaxException: Unknown function 'extratan:apply_random_tem
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_472]
 [00:40:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mrcripts has made the advancement [Getting an Upgrade]
+[00:41:05] [Server thread/WARN] [FML]: Quark loaded a new chunk [20, 19] in dimension 0 (overworld) while populating chunk [20, 18], causing cascading worldgen lag.
+[00:41:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:41:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:41:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:41:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:41:09] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:41:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:41:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> primer full hierro
+[00:41:15] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Martineli03, restore it with /gkrestore 9298462a-5777-3938-bb43-24359351d49c_Martineli03_2026-02-08_00.41.15.765
+[00:41:15] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Martineli03 (9298462a-5777-3938-bb43-24359351d49c) in DIM0 at (128 69 -543).
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Martineli03 was shot by Skeleton
+[00:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ has made the advancement [Stone Age]
+[00:41:47] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for mrcripts, restore it with /gkrestore 5de55f99-9f06-33c5-810c-1ebca33e2dfb_mrcripts_2026-02-08_00.41.47.119
+[00:41:47] [Server thread/INFO] [gravekeeper]: Generated DeathChest for mrcripts (5de55f99-9f06-33c5-810c-1ebca33e2dfb) in DIM0 at (18 75 -42).
+[00:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mrcripts was shot by Skeleton
+[00:41:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:41:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:41:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:41:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:41:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:41:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bentivinja (Shepherd) was slain by Zombie
+[00:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ has made the advancement [Getting an Upgrade]
+[00:42:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:42:13] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: mrcripts
+[00:42:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> quien me ase tp
+[00:42:17] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Martineli03
+[00:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> yo
+[00:42:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [27, -21] in dimension 0 (overworld) while populating chunk [27, -20], causing cascading worldgen lag.
+[00:42:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:42:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:42:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:42:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:42:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:42:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:42:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> ga}eacias lag
+[00:42:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bentivinja (Shepherd) burned to death
+[00:42:45] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: TPainterJL
+[00:42:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> se
+[00:42:48] [Server thread/WARN] [FML]: Quark loaded a new chunk [30, 32] in dimension 0 (overworld) while populating chunk [29, 32], causing cascading worldgen lag.
+[00:42:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> tengo comandos
+[00:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> que voy conseguir para el tinker?
+[00:43:20] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NestStageII
+[00:43:20] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [6, -46] in dimension 0 (overworld) while populating chunk [6, -45], causing cascading worldgen lag.
+[00:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:20] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating ShrineSmallFire
+[00:43:20] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [5, -45] in dimension 0 (overworld) while populating chunk [6, -46], causing cascading worldgen lag.
+[00:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NestStageII
+[00:43:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [7, -46] in dimension 0 (overworld) while populating chunk [6, -45], causing cascading worldgen lag.
+[00:43:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ has made the advancement [Monster Hunter]
+[00:43:24] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:43:24] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:43:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:43:24] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:43:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:43:24] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:44:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:44:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:44:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:44:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:44:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:44:09] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:44:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> son con addons
+[00:44:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PestilentialTreeStageII
+[00:44:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [32, 37] in dimension 0 (overworld) while populating chunk [31, 37], causing cascading worldgen lag.
+[00:44:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing PestilentialTreeStageII
+[00:44:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [32, 38] in dimension 0 (overworld) while populating chunk [31, 37], causing cascading worldgen lag.
+[00:44:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing PestilentialTreeStageII
+[00:44:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [31, 38] in dimension 0 (overworld) while populating chunk [31, 37], causing cascading worldgen lag.
+[00:44:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> yo jugaba rlcraft en hardcore ajjaaj
+[00:44:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:44:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:44:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:44:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:44:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:44:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:45:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> bueno juego
+[00:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> x2
+[00:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> bueno yo si
+[00:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> lo maximo que sobrevivi fueron 10 dias
+[00:45:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Octii_> asda
+[00:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> yo me lo pase luego de meses xd
+[00:45:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:45:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:45:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:45:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:45:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:45:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:45:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> perdi un mundo de 300 dias por una instakill de la nada
+[00:45:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: mrcripts lost connection: Disconnected
+[00:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mrcripts left the game
+[00:45:57] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> el amalgalich seguro
+[00:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> por una medusa me convirtio en piedra en una dungeon
+[00:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> a verg
+[00:46:17] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing DinosaurSkeleton
+[00:46:17] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [7, 33] in dimension 0 (overworld) while populating chunk [7, 32], causing cascading worldgen lag.
+[00:46:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> estaba en una dungeon re chill
+[00:46:24] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:46:24] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:46:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:46:24] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:46:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:46:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> yo con el amalgalicht
+[00:46:31] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[00:46:31] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 246 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[00:46:38] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:46:38] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 246 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[00:46:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:46:38] [Server thread/INFO] [gamestages]: Could not find legacy data for d0175263-1030-31aa-9e9d-12127501cc4f.
+[00:46:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: toomasa00[/127.181.158.170:47723] logged in with entity id 3277179 at (-76.5, 67.0, -135.5)
+[00:46:38] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: toomasa00
+[00:46:38] [Server thread/INFO] [dsurround]: Player [toomasa00] connected with Dynamic Surroundings 3.6.1.0
+[00:46:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: toomasa00 joined the game
+[00:46:38] [Server thread/INFO] [gamestages]: Syncing 0 stages for toomasa00.
+[00:46:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['toomasa00'/3277179, l='world', x=-76.50, y=67.00, z=-135.50] connected. Sending ping
+[00:46:38] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player toomasa00
+[00:46:38] [Server thread/INFO] [Mekanism]: Sent config to 'toomasa00.'
+[00:46:38] [Server thread/INFO] [XAT]: Syncing Config to toomasa00
+[00:46:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:46:48] [Server thread/INFO] [gamestages]: Loaded 0 stages for mrcripts.
+[00:46:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: mrcripts[/127.56.245.40:48529] logged in with entity id 3292898 at (-83.69999998807907, 66.0, -140.01022916995387)
+[00:46:48] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: mrcripts
+[00:46:48] [Server thread/INFO] [dsurround]: Player [mrcripts] connected with Dynamic Surroundings 3.6.1.0
+[00:46:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mrcripts joined the game
+[00:46:48] [Server thread/INFO] [gamestages]: Syncing 0 stages for mrcripts.
+[00:46:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['mrcripts'/3292898, l='world', x=-83.70, y=66.00, z=-140.01] connected. Sending ping
+[00:46:48] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player mrcripts
+[00:46:48] [Server thread/INFO] [Mekanism]: Sent config to 'mrcripts.'
+[00:46:48] [Server thread/INFO] [XAT]: Syncing Config to mrcripts
+[00:46:49] [Server thread/WARN] [FML]: Quark loaded a new chunk [12, 17] in dimension 0 (overworld) while populating chunk [12, 18], causing cascading worldgen lag.
+[00:46:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:46:49] [Server thread/WARN] [FML]: Quark loaded a new chunk [13, 17] in dimension 0 (overworld) while populating chunk [12, 18], causing cascading worldgen lag.
+[00:46:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:47:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: mrcripts lost connection: Timed out
+[00:47:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mrcripts left the game
+[00:47:03] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> tengo 2 stacks de arena
+[00:47:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:47:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:47:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:47:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:47:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:47:09] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:47:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> 0 de grava
+[00:47:41] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:47:41] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 246 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[00:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> mala idea
+[00:47:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:47:47] [Server thread/INFO] [gamestages]: Loaded 0 stages for mrcripts.
+[00:47:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: mrcripts[/127.56.245.40:59005] logged in with entity id 3510147 at (-83.69999998807907, 66.0, -140.01022916995387)
+[00:47:47] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: mrcripts
+[00:47:47] [Server thread/INFO] [dsurround]: Player [mrcripts] connected with Dynamic Surroundings 3.6.1.0
+[00:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mrcripts joined the game
+[00:47:47] [Server thread/INFO] [gamestages]: Syncing 0 stages for mrcripts.
+[00:47:47] [Server thread/INFO] [Waila]: Player EntityPlayerMP['mrcripts'/3510147, l='world', x=-83.70, y=66.00, z=-140.01] connected. Sending ping
+[00:47:47] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player mrcripts
+[00:47:47] [Server thread/INFO] [Mekanism]: Sent config to 'mrcripts.'
+[00:47:47] [Server thread/INFO] [XAT]: Syncing Config to mrcripts
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:47:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> los parasitos son excelentes nadadore
+[00:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> una sky base
+[00:48:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing AbandonedWoodTower
+[00:48:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [5, 20] in dimension 0 (overworld) while populating chunk [5, 21], causing cascading worldgen lag.
+[00:48:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:48:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing AbandonedWoodTower
+[00:48:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [4, 20] in dimension 0 (overworld) while populating chunk [5, 21], causing cascading worldgen lag.
+[00:48:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:48:22] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing AbandonedWoodTower
+[00:48:22] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [4, 21] in dimension 0 (overworld) while populating chunk [5, 21], causing cascading worldgen lag.
+[00:48:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:48:22] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing AbandonedWoodTower
+[00:48:22] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [5, 21], causing cascading worldgen lag.
+[00:48:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:48:22] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing AbandonedWoodTower
+[00:48:22] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [5, 21], causing cascading worldgen lag.
+[00:48:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:48:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> aa
+[00:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> subimos con hojas
+[00:49:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-13, -31] in dimension 0 (overworld) while populating chunk [-13, -30], causing cascading worldgen lag.
+[00:49:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:49:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-14, -31] in dimension 0 (overworld) while populating chunk [-13, -30], causing cascading worldgen lag.
+[00:49:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:49:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-13, -32] in dimension 0 (overworld) while populating chunk [-13, -30], causing cascading worldgen lag.
+[00:49:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:49:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-14, -32] in dimension 0 (overworld) while populating chunk [-13, -30], causing cascading worldgen lag.
+[00:49:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:49:00] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:49:00] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 247 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2860,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,waystones@4.1.0,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[00:49:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:49:03] [Server thread/INFO] [gamestages]: Could not find legacy data for b2c02301-8acd-316d-b439-7c25a9a65ea0.
+[00:49:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Dalviabee[/127.142.12.201:60509] logged in with entity id 3793822 at (-67.5, 68.0, -134.5)
+[00:49:03] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[00:49:03] [Server thread/INFO] [dsurround]: Player [Dalviabee] connected with Dynamic Surroundings 3.6.1.0
+[00:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee joined the game
+[00:49:03] [Server thread/INFO] [gamestages]: Syncing 0 stages for Dalviabee.
+[00:49:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Dalviabee'/3793822, l='world', x=-67.50, y=68.00, z=-134.50] connected. Sending ping
+[00:49:03] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Dalviabee
+[00:49:03] [Server thread/INFO] [Mekanism]: Sent config to 'Dalviabee.'
+[00:49:03] [Server thread/INFO] [XAT]: Syncing Config to Dalviabee
+[00:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> lag
+[00:49:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-15, -24] in dimension 0 (overworld) while populating chunk [-15, -25], causing cascading worldgen lag.
+[00:49:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:49:25] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:49:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> hola
+[00:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> para que neceistabamos redstone?
+[00:49:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> falta grava?
+[00:49:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octii_ lost connection: Timed out
+[00:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ left the game
+[00:49:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:50:08] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:50:08] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 246 mods : blockdrops@1.4.0,bnbgamingcore@0.12.0,lieutenant@1.4,theimpossiblelibrary@1.12.2-0.3.0,gbook@2.9.5,chunkgenlimit@1.1,contenttweaker@1.12.2-4.10.0,musicplayer@2.1.1.285,neat@1.4-17,bettertitlescreen@1.4b,hammercore@12.2.56,materialis@1.2.5,armorcurve@1.2.0,forgelin@1.8.4,tan_tooltips@0.2,stg@1.12.2-1.2.3,llibrary@1.7.20,betterbuilderswands@0.11.1,hordes@1.5.3a,waila@1.8.26,jeresources@0.9.2.60,bq_msi@1.0.9,nocubessrpsurvival@3.0.0,openmodularturrets@3.1.14-382,mysticallib@1.12.2-1.13.0,advancementplaques@1.4.10,boptools@0.0.3,lootoverhaul@1.2,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,ironfurnaces@1.3.5,toughnessbar@@VERSION@,mcwtrpdoors@1.0.2,reccomplex@1.4.8.6,supermartijn642corelib@1.1.17a,highlighter@1.1.7,resourceloader@1.5.3,improvableskills@12.4.68,gamestages@2.0.123,aquaacrobatics@1.15.4,xplosives@1.1,lunatriuscore@1.2.0.42,mekores@2.0.13,otgcore@1.12.2-v9.5-R1,uniquee@2.0.1,futurefireproof@1.12.2-1.0.0,FML@8.0.99.99,obfuscate@0.4.2,spartannetherite@1.12.2-1.2.0,davincisvessels@@DVESSELSVER@,atlaslib@1.1.6,chargers@1.2.0.5,tanaddons@3.4.24,mcwfurnitures@1.0.1,overpoweredarmorbar@@VERSION@,configurablebeaconscore@@VERSION@,betterburning@0.9.2,messageremover@1.0.0,particleculling@v1.4.3,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30,netherex@2.2.5,wailaharvestability@1.1.12,mcwlights@1.0.6,biggerpacketsplz@1.2,serenetweaks@0.0.1,ctgui@1.0.0,mobstages@2.0.8,mowziesmobs@1.5.8,cgm@0.15.3,jee@1.0.8,bountifulbaubles@0.0.1,jei@4.16.1.301,bnbgaminglib@2.17.6,attributefix@1.0.12,diamondglass@@VERSION@,mekanism@1.12.2-9.8.3.390,jjweaponconf@1.0.2,mujmajnkraftsbettersurvival@1.5.3,oresabovediamonds@3.2,travelersbackpack@1.0.35,sereneseasons@1.2.18,ee@0.1.1,anvilrestoration@1.1,conarm@1.2.5.10,athenaeum@1.12.2-1.19.6,xat@0.32.5,gravekeeper@0.6.1.1,crafttweaker@4.1.20,mysticalworld@1.12.2-1.11.0,mowzies_wings@1.0.0,forge@14.23.5.2864,srmonstress@1.0.2,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.1.0,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,enchcontrol@1.1.5,minecraft@1.12.2,tcomplement@1.12.2-0.4.3,mousetweaks@2.10,immersiveengineering@0.12-98,bspkrscore@7.6.0.1,somanyenchantments@0.5.5,ctintegration@1.8.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,loottweaker@0.4.1,xaerominimap@24.6.1,bhc@2.0.3,jeivillagers@1.0,autoreglib@1.3-32,libraryex@1.2.2,letsencryptcraft@@VERSION@,entityculling@@VER@,offlineskins@1.12.2-v6,srparasites@1.9.21,betterbedrock@5.1,fastfurnace@1.3.1,tbintegration@1.0.1,appleskin@1.0.14,recipehandler@0.14,betterinvisibility@1.0.1,overlast@0.0.2,base@3.14.0,wolfarmor@3.8.0,weaponmaster_ydm@4.2.3,p455w0rdslib@2.3.161,netherportalfix@5.3.17,creativecoredummy@1.0.0,bedfix@1.0.0,betterchat@1.4,tips@1.0.9,villagenames@4.4.13,futuremc@0.2.6,cofhcore@4.6.6,lttweaker@1.1.14,nanhealthfixer@1.12.2-0.0.1,nocubessrpnests@3.0.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,cookingforblockheads@6.5.0,enhancedvisuals@1.3.0,xaeroworldmap@1.39.0,bettertabs@1.0.4,bookshelf@2.3.590,uteamcore@2.2.5.319,friendly_chests@1.0.3,simpleplanes@3.0.1.7,mcwdoors@1.3,progressivebosses@1.5.4,additionalstructures@2.5.0,mekanismgenerators@1.12.2-9.8.3.390,srpmeshi@1.3,carryon@1.12.3,mcjtylib_ng@3.5.4,bq_standard@3.4.173,packetapi@1.3.1,konkrete@1.6.1,nocubessrparmory@3.0.0,stackie@1.6.0.48,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,ambientsounds@3.0,crafttweakerjei@2.0.3,bq_gs@1.0.0,extra_slabs@1.0.0,jehc@1.7.2,getittogetherdrops@1.0.2,mtlib@3.0.7,craftable_ender_pearls@1.2.0.9,mcwfences@1.0.0,lostsouls@1.1.4,srptweaks@V1,dimstages@2.0.23,phosphorcrashfix@1.0.0,roguelike@2.4.6,nether_api@1.3.0,cosmiclib@0.4.0,patchouli@1.0-23.6,collective@3.0,betterbiomeblend@1.12.2-1.1.7-forge,lpb@1.0,lostcities@2.0.22,additions@0.5.2,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,trashcans@1.0.18,wings@1.1.6,vtt@${version},uniquebase@1.0.1,betteradvancements@0.1.0.77,cucumber@1.1.3,mixinbooter@9.4,reachfix@1.0.10,defaultworldgenerator-port@1.12-2.3,movingworld@1.12-6.353,bauble_wings@1.0.0,ivtoolkit@1.3.3-1.12,mcp@9.42,clumps@3.1.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,rbm2@RBM2 Pre-Release BetaV0.3.0 For MinecraftV1.12, 1.12.1, 1.12.2,mo@1.0,configurablebeacons@1.0.0,betteranimalsplus@@VERSION@,harvestcraft@1.12.2zb,foamfixcore@7.7.4,omlib@3.1.5-256,farseek@2.5.1,xaeroworldmap_core@1.12.2-1.0,extratan@5.2.587,chesttransporter@2.8.8,orelib@3.6.0.1,tconstruct@1.12.2-2.13.0.183,nocubesrptweaks@V4.1hf4,materialispreload@1.2.5,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,toolbelt@1.9.14,simpleworldtimer@1.1.3.2,baubles@1.5.2,minerlore@1.0,creativecore@1.10.0,simple-rpc@1.0,bloodmoon@1.5.3,quark@r1.6-179,cookiecore@2.0.0,legendarytooltips@1.1.9,spartanshields@1.5.5,fluidlogged_api@2.2.4,bqtweaker@1.3.5,multimob@1.0.5,toughasnails@3.1.0.139,fancymenu@2.14.9,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tinkersjei@1.2,illagers_plus@1.1,soundfilters@0.12.1_for_1.12,tickratechanger@1.0.14,swparasites@v3.1,primitivemobs@1.2.3a,spawnercraft@4.0.0
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:50:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:50:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:50:11] [Server thread/INFO] [gamestages]: Loaded 0 stages for Octii_.
+[00:50:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Octii_[/127.109.88.39:40019] logged in with entity id 4049333 at (194.30829174869322, 71.0, -436.22362771244275)
+[00:50:11] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Octii_
+[00:50:11] [Server thread/INFO] [dsurround]: Player [Octii_] connected with Dynamic Surroundings 3.6.1.0
+[00:50:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ joined the game
+[00:50:11] [Server thread/INFO] [gamestages]: Syncing 0 stages for Octii_.
+[00:50:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Octii_'/4049333, l='world', x=194.31, y=71.00, z=-436.22] connected. Sending ping
+[00:50:11] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Octii_
+[00:50:11] [Server thread/INFO] [Mekanism]: Sent config to 'Octii_.'
+[00:50:11] [Server thread/INFO] [XAT]: Syncing Config to Octii_
+[00:50:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> no lo se rixk
+[00:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> cada 15 dias hay luna roja y cada 30 dias hay un llamado de prasitos es mejor hacer una base en el oceano
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:50:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:51:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> hacemos una base toda cerrada con obsi
+[00:51:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> y entramos con un waypoint
+[00:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> y una salida de escape
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:51:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> porque los parasitos aparecen en masa mas 100 en menos de 100 bloques
+[00:52:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:52:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> unja cantidad masiva de lo peor
+[00:52:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: toomasa00 has made the advancement [Stone Age]
+[00:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> tp
+[00:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> por cierto, aumente la altura maxima
+[00:52:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> de 245 a como 500
+[00:52:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <latamvp> VENI PADROT
+[00:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <latamvp> escucha el directo...
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:53:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> no se comando de tp
+[00:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> es /tp jugador
+[00:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> es un lago muy pequeño
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:53:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> creeme yo he pasado una horda y6 digo que esto es muy pequeño
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:54:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Martineli03 has made the advancement [Sweet dreams]
+[00:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: toomasa00 has made the advancement [Monster Hunter]
+[00:54:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> pero no van a volar
+[00:55:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> es muy complicado
+[00:55:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> ey
+[00:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> pero como subimos?
+[00:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> unos 150 bloques
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:55:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:55:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> con un tp
+[00:55:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> hay set
+[00:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> si vuelan aparecen yellow eye y otros que no me se el nombre
+[00:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> con arena de almas?
+[00:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TPainterJL> hay teleport
+[00:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> con arena de almas
+[00:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> yo te veo
+[00:56:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ has made the advancement [Acquire Hardware]
+[00:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> me tepeo?
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:56:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> **se caia*
+[00:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> como te digo que si aparecen
+[00:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> ta bien
+[00:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee has made the advancement [Stone Age]
+[00:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> esta bien creo
+[00:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> como vamos a estar encerrado no nos van a ver
+[00:56:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> por el momento
+[00:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> aparecen alado tuyo
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:56:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> despues la mejoramos
+[00:57:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> con obsi
+[00:57:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Eali was slain by Zombie
+[00:57:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> yaya
+[00:57:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee has made the advancement [Getting an Upgrade]
+[00:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> guarden waypoint
+[00:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> hay que hacer una casa de madera por el momento}
+[00:57:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octii_ has made the advancement [Suit Up]
+[00:57:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Martineli03> quedate aqui spieler
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:57:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> xaero-waypoint:base:B:550:122:-68:9:false:0:Internal-overworld-waypoints
+[00:58:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Martineli03 has made the advancement [Not Today, Thank You]
+[00:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> estoy yo solo arriba jaaj
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:58:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> mande tp
+[00:59:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> yo creo que no estoy en el server xd
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[00:59:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Dalviabee> ire a buscar un oceano
+[00:59:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <spieler> asi esta bien pero por ahora
+[00:59:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> de minecraft boludo
+[00:59:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:59:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:59:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Eali was slain by toomasa00
+[00:59:50] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-08_00.59.50.186
+[00:59:50] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (535 64 -124).
+[00:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was slain by Skeleton Warrior
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[00:59:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[01:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mrcripts> por favor todos mis bbs especial mente latamvp asme tp
+[01:00:19] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[01:00:19] [Server thread/WARN] [gravekeeper]: No item to save, ignoring death of player EntityPlayerMP['Dalviabee'/3793822, l='world', x=548.61, y=63.00, z=-109.47]
+[01:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was shot by Skeleton Warrior
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for spieler.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for latamvp.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for TPainterJL.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Martineli03.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for toomasa00.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for mrcripts.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Octii_.
+[01:00:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Dalviabee.
+[01:00:51] [Server thread/INFO] [STDOUT]: [com.swdteam.xplosive.common.event.EventHandlers$EventHandlerSnowball:snowBallUpdate:49]: Dalviabee
+[01:00:51] [Server thread/INFO] [gravekeeper]: Archived DeathChest content for Dalviabee, restore it with /gkrestore b2c02301-8acd-316d-b439-7c25a9a65ea0_Dalviabee_2026-02-08_01.00.51.876
+[01:00:51] [Server thread/INFO] [gravekeeper]: Generated DeathChest for Dalviabee (b2c02301-8acd-316d-b439-7c25a9a65ea0) in DIM0 at (520 63 -64).
+[01:00:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dalviabee was shot by Skeleton Warrior

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-08 00:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2026-02-08 00:39:22 +0000"
@@ -92,15 +98,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
     "criteria": {
-      "has_lots_of_items": "2026-02-08 00:39:22 +0000"
+      "has_planks": "2026-02-08 00:50:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2026-02-08 00:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-02-08 00:39:22 +0000"
     },
     "done": true
   },
@@ -116,6 +128,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_planks": "2026-02-08 00:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2026-02-08 00:34:23 +0000"
@@ -128,15 +146,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2026-02-08 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2026-02-08 00:39:22 +0000"
     },
     "done": true
   },
@@ -161,6 +179,12 @@
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2026-02-08 00:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2026-02-08 00:40:25 +0000"
     },
     "done": true
   },
@@ -200,6 +224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-02-08 00:34:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2026-02-08 00:37:24 +0000"
@@ -209,12 +239,6 @@
   "mujmajnkraftsbettersurvival:stone_nunchaku": {
     "criteria": {
       "has_stone": "2026-02-08 00:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2026-02-08 00:34:23 +0000"
     },
     "done": true
   },
@@ -236,21 +260,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2026-02-08 00:34:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2026-02-08 00:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2026-02-08 00:39:12 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-08 00:54:18 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-08 00:54:18 +0000"
     },
     "done": true
   },
@@ -326,6 +362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-02-08 00:42:04 +0000"
+    },
+    "done": true
+  },
   "nocubessrpsurvival:advparasitesurvivalroot": {
     "criteria": {
       "advparasitesurvivalroot": "2026-02-08 00:28:10 +0000"
@@ -365,6 +407,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2026-02-08 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2026-02-08 00:50:24 +0000"
     },
     "done": true
   },
@@ -410,21 +458,27 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-02-08 00:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2026-02-08 00:34:23 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_mangrove": {
-    "criteria": {
-      "entered_water": "2026-02-08 00:39:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2026-02-08 00:34:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2026-02-08 00:39:12 +0000"
     },
     "done": true
   },

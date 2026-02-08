@@ -8,3 +8,9 @@ AbandonedWoodTower,202,238,-625,-595
 StoneLeafMound,81,90,-657,-650
 StonePlantMound2,377,390,-551,-539
 StonePlantBoulder,368,378,-603,-593
+ShrineSmallFire,100,110,-720,-710
+StonePlantMound1,-49,-43,-714,-708
+StonePlantMound3,-127,-118,-549,-538
+ClayWaterMound,-153,-146,-599,-591
+StonePlantMound4,-224,-217,-548,-541
+StoneLeafMound,412,421,-552,-545
