@@ -1403,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-02-10 19:55:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
@@ -1781,6 +1787,7 @@
       "birch_forest": "2026-02-10 19:46:32 +0000",
       "deep_ocean": "2026-02-10 19:47:25 +0000",
       "beaches": "2026-02-10 19:43:23 +0000",
+      "forest_hills": "2026-02-10 19:54:08 +0000",
       "taiga_hills": "2026-02-10 19:33:39 +0000",
       "ocean": "2026-02-10 19:43:51 +0000",
       "river": "2026-02-10 19:46:27 +0000"
@@ -2591,6 +2598,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2026-02-10 19:57:35 +0000",
+      "apple": "2026-02-10 19:56:27 +0000"
+    },
+    "done": false
+  },
   "trashcans:recipes/ultimate_trash_can": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
@@ -2930,6 +2944,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-10 19:52:48 +0000"
     },
     "done": true
   },

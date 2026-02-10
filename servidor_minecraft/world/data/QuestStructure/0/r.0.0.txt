@@ -1104,3 +1104,15 @@ StonePlantMound2,485,497,-340,-327
 StonePlantMound,302,307,-194,-189
 StonePlantMound3,313,322,-199,-188
 DinosaurSkeleton,331,377,-201,-192
+SpiderPit,26,35,-246,-236
+DinosaurSkeleton,227,273,-127,-118
+StoneBoulder,450,459,-254,-245
+StonePlantBoulder,459,469,-152,-142
+AbandonedWoodTower,439,475,157,187
+StonePlantMound4,446,453,374,381
+StoneBoulder,507,516,399,408
+StonePlantMound3,433,442,393,404
+StoneBoulder,471,480,414,423
+StonePlantMound1,473,479,435,441
+StonePlantMound1,466,472,488,494
+ShrineSmallEarth,485,497,494,506

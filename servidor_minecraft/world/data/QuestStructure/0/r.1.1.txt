@@ -1,0 +1,11 @@
+StonePlantMound,590,595,520,525
+StonePlantMound3,571,580,537,548
+StoneBoulder,668,677,515,524
+StoneLeafMound,565,574,558,565
+StonePlantMound2,580,593,572,584
+StonePlantMound2,561,573,604,617
+MeteorSite,707,737,601,616
+StonePlantMound1,592,598,615,621
+StoneBoulder,741,750,567,576
+StonePlantBoulder,812,822,529,539
+VillageWoodMill,852,865,658,674

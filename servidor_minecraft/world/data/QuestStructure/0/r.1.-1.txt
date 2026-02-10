@@ -1,0 +1,2 @@
+WoodThornBig,525,538,-625,-612
+StatueTemple,512,583,-570,-468

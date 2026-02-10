@@ -423,3 +423,5 @@ StonePlantMound2,412,425,-607,-595
 ForestBeacon,440,448,-524,-516
 StonePlantMound,452,457,-663,-658
 StonePlantMound2,317,329,-675,-662
+MysticalTree1,148,159,-679,-666
+SmallAbandonedMine,504,519,-648,-623

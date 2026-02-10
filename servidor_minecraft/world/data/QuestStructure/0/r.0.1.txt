@@ -1,0 +1,8 @@
+StonePlantMound2,428,441,524,536
+StonePlantMound,499,504,612,617
+StonePlantMound2,484,497,624,636
+StonePlantMound,482,487,624,629
+StonePlantBoulder,435,445,640,650
+StoneBoulder,426,435,634,643
+StonePlantMound3,456,467,648,657
+PeacefulCrypt,460,484,695,711
