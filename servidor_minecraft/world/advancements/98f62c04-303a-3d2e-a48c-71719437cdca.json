@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-02-10 22:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
@@ -836,6 +842,12 @@
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-10 21:49:03 +0000"
     },
     "done": true
   },
@@ -973,6 +985,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2026-02-10 21:48:51 +0000",
       "zombie": "2026-02-10 19:39:54 +0000"
     },
     "done": false
@@ -1301,12 +1314,6 @@
     },
     "done": true
   },
-  "nocubessrparmory:advtwistedpart": {
-    "criteria": {
-      "advtwistedpart": "2026-02-10 21:18:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
@@ -1316,6 +1323,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedpart": {
+    "criteria": {
+      "advtwistedpart": "2026-02-10 21:18:37 +0000"
     },
     "done": true
   },
@@ -1643,15 +1656,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-02-10 20:58:27 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-10 20:58:27 +0000"
     },
     "done": true
   },
@@ -1830,6 +1843,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2026-02-10 22:18:59 +0000"
     },
     "done": true
   },
@@ -2373,6 +2392,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-10 22:14:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
@@ -2619,19 +2644,20 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2026-02-10 19:57:35 +0000",
-      "apple": "2026-02-10 19:56:27 +0000",
-      "cooked_chicken": "2026-02-10 20:03:35 +0000"
-    },
-    "done": false
-  },
   "trashcans:recipes/ultimate_trash_can": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2026-02-10 19:57:35 +0000",
+      "cooked_mutton": "2026-02-10 22:21:20 +0000",
+      "apple": "2026-02-10 19:56:27 +0000",
+      "cooked_chicken": "2026-02-10 20:03:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -3170,6 +3196,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-02-10 22:14:46 +0000"
     },
     "done": true
   },

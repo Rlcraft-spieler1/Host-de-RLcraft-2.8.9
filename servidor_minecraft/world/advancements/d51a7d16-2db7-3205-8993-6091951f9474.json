@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-02-10 21:51:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
@@ -764,6 +770,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2026-02-10 22:18:15 +0000"
     },
     "done": true
   },
@@ -824,6 +836,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-02-10 21:33:28 +0000"
     },
     "done": true
   },
@@ -973,7 +991,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2026-02-10 19:41:00 +0000"
+      "zombie": "2026-02-10 19:41:00 +0000",
+      "ghast": "2026-02-10 22:18:15 +0000"
     },
     "done": false
   },
@@ -1631,15 +1650,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-02-10 19:30:24 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-02-10 19:30:24 +0000"
     },
     "done": true
   },
@@ -1830,15 +1849,15 @@
     },
     "done": true
   },
-  "nocubessrparmory:advtwistedmallet": {
-    "criteria": {
-      "advtwistedmallet": "2026-02-10 21:00:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2026-02-10 21:00:10 +0000"
     },
     "done": true
   },
@@ -2376,6 +2395,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-10 22:05:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
@@ -2616,6 +2641,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/ultimate_trash_can": {
+    "criteria": {
+      "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2026-02-10 20:38:59 +0000",
@@ -2623,12 +2654,6 @@
       "bread": "2026-02-10 19:28:20 +0000"
     },
     "done": false
-  },
-  "trashcans:recipes/ultimate_trash_can": {
-    "criteria": {
-      "has_the_recipe": "2026-02-10 19:25:27 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -3167,6 +3192,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-02-10 22:05:38 +0000"
     },
     "done": true
   },
@@ -4001,6 +4032,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-02-10 22:19:47 +0000"
     },
     "done": true
   },

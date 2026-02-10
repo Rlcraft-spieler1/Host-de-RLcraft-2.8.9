@@ -1,2 +1,6 @@
 WoodThornBig,525,538,-625,-612
 StatueTemple,512,583,-570,-468
+WoodPile,511,515,-834,-830
+StoneBoulder,544,553,-842,-833
+StonePlantMound4,555,562,-816,-809
+StonePlantBoulder,577,587,-790,-780
