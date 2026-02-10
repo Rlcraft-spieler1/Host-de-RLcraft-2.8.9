@@ -2,8 +2,13 @@
   "nameCache:9": {
     "0:10": {
       "name:8": "spieler",
-      "isOP:1": 0,
+      "isOP:1": 1,
       "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+    },
+    "1:10": {
+      "name:8": "latamvp",
+      "isOP:1": 0,
+      "uuid:8": "d51a7d16-2db7-3205-8993-6091951f9474"
     }
   }
 }

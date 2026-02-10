@@ -41,3 +41,4 @@ StoneLeafMound,-458,-451,-502,-493
 StonePlantMound1,-505,-499,-166,-160
 StonePlantMound3,-513,-502,-136,-127
 StonePlantMound2,-476,-464,-125,-112
+ShrineSmallEarth,-30,-18,120,132

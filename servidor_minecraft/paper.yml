@@ -12,15 +12,6 @@
 verbose: false
 config-version: 13
 settings:
-  player-auto-save-rate: -1
-  max-player-auto-save-per-tick: -1
-  remove-invalid-statistics: false
-  save-player-data: true
-  use-alternative-luck-formula: false
-  min-chunk-load-threads: 2
-  spam-limiter:
-    tab-spam-increment: 10
-    tab-spam-limit: 500
   suggest-player-names-when-null-tab-completions: true
   book-size:
     page-max: 2560
@@ -31,12 +22,21 @@ settings:
   enable-player-collisions: true
   save-empty-scoreboard-teams: false
   incoming-packet-spam-threshold: 300
+  player-auto-save-rate: -1
+  max-player-auto-save-per-tick: -1
+  remove-invalid-statistics: false
+  save-player-data: true
+  use-alternative-luck-formula: false
+  min-chunk-load-threads: 2
+  spam-limiter:
+    tab-spam-increment: 10
+    tab-spam-limit: 500
   bungee-online-mode: true
 messages:
   kick:
-    authentication-servers-down: ''
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
+    authentication-servers-down: ''
 timings:
   enabled: true
   verbose: true

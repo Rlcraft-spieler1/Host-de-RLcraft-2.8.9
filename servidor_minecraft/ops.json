@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "d51a7d16-2db7-3205-8993-6091951f9474",
+    "name": "latamvp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
     "name": "spieler",
     "level": 4,
