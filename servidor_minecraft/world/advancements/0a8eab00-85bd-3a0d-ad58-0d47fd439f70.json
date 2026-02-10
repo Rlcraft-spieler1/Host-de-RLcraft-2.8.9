@@ -1397,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-02-10 19:39:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:26:15 +0000"
@@ -1766,7 +1772,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2026-02-10 19:26:50 +0000",
-      "extreme_hills": "2026-02-10 19:30:10 +0000"
+      "deep_ocean": "2026-02-10 19:43:39 +0000",
+      "beaches": "2026-02-10 19:42:15 +0000",
+      "forest_hills": "2026-02-10 19:41:24 +0000",
+      "taiga": "2026-02-10 19:35:56 +0000",
+      "taiga_hills": "2026-02-10 19:32:41 +0000",
+      "ocean": "2026-02-10 19:42:21 +0000",
+      "extreme_hills": "2026-02-10 19:30:10 +0000",
+      "roofed_forest": "2026-02-10 19:35:57 +0000",
+      "river": "2026-02-10 19:37:42 +0000"
     },
     "done": false
   },
@@ -2562,17 +2576,19 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2026-02-10 19:30:14 +0000"
-    },
-    "done": false
-  },
   "trashcans:recipes/ultimate_trash_can": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:26:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2026-02-10 19:30:14 +0000",
+      "beef": "2026-02-10 19:45:00 +0000",
+      "potato": "2026-02-10 19:40:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -4215,6 +4231,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-10 19:45:11 +0000"
     },
     "done": true
   },

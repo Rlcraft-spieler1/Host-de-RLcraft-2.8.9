@@ -1,0 +1,7 @@
+ShrineSmallAir,-580,-572,-519,-511
+StonePlantMound,-679,-674,-516,-511
+SmallAbandonedMine,-587,-572,-559,-534
+StonePlantMound,-703,-698,-552,-547
+StoneBoulder,-636,-627,-604,-595
+StonePlantMound2,-530,-517,-635,-623
+StonePlantMound1,-606,-600,-647,-641

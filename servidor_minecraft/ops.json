@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "b2c02301-8acd-316d-b439-7c25a9a65ea0",
+    "name": "Dalviabee",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "d51a7d16-2db7-3205-8993-6091951f9474",
     "name": "latamvp",
     "level": 4,
