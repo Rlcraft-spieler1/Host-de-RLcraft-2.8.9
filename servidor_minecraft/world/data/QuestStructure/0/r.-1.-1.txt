@@ -18,3 +18,15 @@ StonePlantMound1,-606,-600,-952,-946
 StonePlantMound3,-613,-602,-891,-882
 StonePlantMound2,-649,-637,-945,-932
 PeacefulCrypt,-658,-642,-981,-957
+WoodWallRemains,-737,-709,-937,-929
+BrickHenge,-760,-744,-712,-696
+StonePlantBoulder,-737,-727,-540,-530
+StonePlantMound1,-790,-784,-523,-517
+StonePlantMound4,-778,-771,-529,-522
+StonePlantBoulder,-969,-959,-581,-571
+StonePlantMound,-861,-856,-572,-567
+StonePlantMound3,-852,-843,-606,-595
+StoneBoulder,-1012,-1003,-581,-572
+StonePlantMound1,-962,-956,-614,-608
+StonePlantMound,-923,-918,-633,-628
+StonePlantMound4,-1010,-1003,-591,-584

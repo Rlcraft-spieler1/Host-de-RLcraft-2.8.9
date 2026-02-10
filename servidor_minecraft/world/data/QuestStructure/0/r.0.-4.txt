@@ -253,3 +253,9 @@ StonePlantMound4,-316,-309,-2540,-2533
 StoneBoulder,-333,-324,-2557,-2548
 CuboneSkull,-119,-58,-2427,-2369
 StoneLeafMound,-486,-477,-2440,-2433
+StonePlantMound3,-74,-63,-2521,-2512
+StoneBoulder,-19,-10,-2447,-2438
+StonePlantMound2,-16,-4,-2565,-2552
+StonePlantMound2,12,24,-2520,-2507
+StoneBoulder,47,56,-2368,-2359
+StonePlantMound1,44,50,-2504,-2498

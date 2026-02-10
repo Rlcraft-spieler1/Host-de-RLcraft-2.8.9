@@ -42,3 +42,5 @@ StonePlantMound1,-505,-499,-166,-160
 StonePlantMound3,-513,-502,-136,-127
 StonePlantMound2,-476,-464,-125,-112
 ShrineSmallEarth,-30,-18,120,132
+StonePlantMound3,-144,-133,-512,-503
+StoneBoulder,-59,-50,-463,-454

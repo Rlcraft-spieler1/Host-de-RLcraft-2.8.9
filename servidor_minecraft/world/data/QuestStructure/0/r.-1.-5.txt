@@ -1,0 +1,2 @@
+ShrineSmallEarth,-576,-564,-2636,-2624
+StonePlantMound2,-587,-574,-2580,-2568

@@ -1,0 +1,2 @@
+StonePlantMound,-1087,-1082,650,655
+StonePlantMound,-1085,-1080,670,675

@@ -424,3 +424,4 @@ ShrineSmallWater,494,502,-699,-691
 ShrineSmallFire,-229,-219,-996,-986
 ShrineSmallFire,-464,-454,-985,-975
 StonePlantBoulder,-491,-481,-879,-869
+StonePlantMound4,-207,-200,-518,-511

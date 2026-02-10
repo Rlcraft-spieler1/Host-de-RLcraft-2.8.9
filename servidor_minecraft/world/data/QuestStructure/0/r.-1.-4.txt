@@ -1,1 +1,4 @@
 StonePlantMound1,-585,-579,-2354,-2348
+StoneLeafMound,-533,-526,-2522,-2513
+StoneBoulder,-531,-522,-2429,-2420
+BrickHenge,-529,-513,-2287,-2271
