@@ -434,3 +434,11 @@ StonePlantMound1,272,278,-786,-780
 VillageWoodMill,306,322,-815,-802
 VillageTriplets,285,299,-810,-796
 VillageTriplets,302,316,-835,-821
+StoneLeafMound,73,82,-683,-676
+StonePlantMound,-170,-165,-749,-744
+StoneBoulder,-217,-208,-698,-689
+StonePlantMound1,-261,-255,-683,-677
+StonePlantMound3,-272,-263,-709,-698
+StonePlantBoulder,-275,-265,-825,-815
+StoneLeafMound,-297,-288,-716,-709
+StonePlantMound3,-295,-284,-690,-681

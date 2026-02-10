@@ -1830,6 +1830,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2026-02-10 21:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
@@ -3737,6 +3743,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-10 20:59:12 +0000"
     },
     "done": true
   },
