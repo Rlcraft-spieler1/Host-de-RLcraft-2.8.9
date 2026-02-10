@@ -1301,6 +1301,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedpart": {
+    "criteria": {
+      "advtwistedpart": "2026-02-10 21:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
