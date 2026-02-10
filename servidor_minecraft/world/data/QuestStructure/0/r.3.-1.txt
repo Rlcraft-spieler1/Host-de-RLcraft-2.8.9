@@ -1,6 +1,0 @@
-UndergroundTreeoid,1532,1555,-542,-516
-ShrineSmallAir,1751,1759,-741,-733
-StoneIceBoulder3,1745,1755,-758,-748
-StonePlantMound4,1966,1973,-1000,-993
-Watchtower_1,2006,2020,-907,-891
-VillageForgeLarge,2028,2044,-867,-855

@@ -60,19 +60,7 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "somanyenchantments:physicalprotection",
-						"enchantmentLevel": 1
-					}, 
-					{
-						"enchantment": "cofhcore:leech",
-						"enchantmentLevel": 2
-					}, 
-					{
-						"enchantment": "minecraft:power",
-						"enchantmentLevel": 2
-					}, 
-					{
-						"enchantment": "spartanweaponry:supercharge",
+						"enchantment": "uniquee:swift",
 						"enchantmentLevel": 1
 					}
 				],

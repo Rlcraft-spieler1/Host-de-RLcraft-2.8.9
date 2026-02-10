@@ -12,10 +12,6 @@
 verbose: false
 config-version: 13
 settings:
-  suggest-player-names-when-null-tab-completions: true
-  book-size:
-    page-max: 2560
-    total-multiplier: 0.98
   sleep-between-chunk-saves: false
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
@@ -31,12 +27,16 @@ settings:
   spam-limiter:
     tab-spam-increment: 10
     tab-spam-limit: 500
+  suggest-player-names-when-null-tab-completions: true
+  book-size:
+    page-max: 2560
+    total-multiplier: 0.98
   bungee-online-mode: true
 messages:
   kick:
+    authentication-servers-down: ''
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
-    authentication-servers-down: ''
 timings:
   enabled: true
   verbose: true

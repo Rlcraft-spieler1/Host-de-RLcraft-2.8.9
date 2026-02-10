@@ -1,5 +1,0 @@
-StonePlantMound,-1087,-1082,650,655
-StonePlantMound,-1085,-1080,670,675
-SmallOutpost,-1179,-1157,514,544
-StonePlantMound1,-1230,-1224,518,524
-StonePlantMound2,-1110,-1097,557,569

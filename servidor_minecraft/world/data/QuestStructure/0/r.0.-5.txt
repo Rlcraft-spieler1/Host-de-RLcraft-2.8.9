@@ -1,9 +1,0 @@
-StonePlantMound4,-320,-313,-2593,-2586
-StoneBoulder,-262,-253,-2645,-2636
-SmallAbandonedMine,-346,-331,-2668,-2643
-StonePlantBoulder,-485,-475,-2599,-2589
-MeteorSite,-213,-183,-2715,-2700
-StonePlantMound4,-96,-89,-2660,-2653
-Watchtower_1,-224,-210,-2765,-2749
-WitchPillars,-45,-28,-2630,-2613
-StonePlantMound2,-26,-14,-2578,-2565
