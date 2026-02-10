@@ -1116,3 +1116,5 @@ StoneBoulder,471,480,414,423
 StonePlantMound1,473,479,435,441
 StonePlantMound1,466,472,488,494
 ShrineSmallEarth,485,497,494,506
+StoneLeafMound,51,60,485,492
+DinosaurSkull,-24,-5,489,500

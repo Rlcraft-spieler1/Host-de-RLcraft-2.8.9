@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-10 20:14:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/bamboo_terrarium": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:26:15 +0000"
@@ -1778,9 +1784,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2026-02-10 19:26:50 +0000",
+      "swampland": "2026-02-10 20:17:22 +0000",
       "birch_forest": "2026-02-10 19:58:33 +0000",
       "deep_ocean": "2026-02-10 19:43:39 +0000",
       "beaches": "2026-02-10 19:42:15 +0000",
+      "extreme_hills_with_trees": "2026-02-10 20:12:28 +0000",
       "forest_hills": "2026-02-10 19:41:24 +0000",
       "taiga": "2026-02-10 19:35:56 +0000",
       "taiga_hills": "2026-02-10 19:32:41 +0000",
@@ -1788,7 +1796,8 @@
       "ocean": "2026-02-10 19:42:21 +0000",
       "extreme_hills": "2026-02-10 19:30:10 +0000",
       "roofed_forest": "2026-02-10 19:35:57 +0000",
-      "river": "2026-02-10 19:37:42 +0000"
+      "river": "2026-02-10 19:37:42 +0000",
+      "stone_beach": "2026-02-10 20:16:59 +0000"
     },
     "done": false
   },
@@ -2592,6 +2601,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-02-10 20:11:47 +0000",
       "cooked_beef": "2026-02-10 19:30:14 +0000",
       "beef": "2026-02-10 19:45:00 +0000",
       "porkchop": "2026-02-10 19:50:29 +0000",
@@ -3715,6 +3725,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-10 20:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:26:15 +0000"
@@ -3742,6 +3758,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2026-02-10 20:11:39 +0000"
     },
     "done": true
   },

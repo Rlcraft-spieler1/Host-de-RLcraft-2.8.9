@@ -2861,6 +2861,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:bear_killed_player": {
+    "criteria": {
+      "bear_kill1": "2026-02-10 20:14:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/cherry_door": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"

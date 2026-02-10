@@ -1673,6 +1673,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2026-02-10 20:18:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/ruby": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:32:12 +0000"
@@ -1792,7 +1798,8 @@
       "ocean": "2026-02-10 19:43:18 +0000",
       "extreme_hills": "2026-02-10 19:38:00 +0000",
       "roofed_forest": "2026-02-10 19:39:30 +0000",
-      "river": "2026-02-10 19:39:16 +0000"
+      "river": "2026-02-10 19:39:16 +0000",
+      "stone_beach": "2026-02-10 20:19:53 +0000"
     },
     "done": false
   },

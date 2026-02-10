@@ -67,3 +67,12 @@ StoneMazePath,-78,-76,950,952
 StoneMazePath,-87,-85,956,958
 StoneMazePath,-78,-76,944,946
 StoneMazeSmall,-99,-76,944,967
+StoneLeafMound,39,46,527,536
+StoneLeafMound,-164,-155,795,802
+StoneBoulder,-187,-178,852,861
+StoneLeafMound,-50,-41,520,527
+StoneLeafMound,-86,-79,510,519
+StoneLeafMound,-107,-100,519,528
+StoneLeafMound,-143,-136,886,895
+StonePlantMound2,-197,-184,653,665
+DinosaurSkull,32,43,1004,1023
