@@ -2612,6 +2612,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2026-02-10 20:38:59 +0000",
       "apple": "2026-02-10 19:28:22 +0000",
       "bread": "2026-02-10 19:28:20 +0000"
     },
@@ -3268,6 +3269,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-02-10 20:31:53 +0000"
     },
     "done": true
   },

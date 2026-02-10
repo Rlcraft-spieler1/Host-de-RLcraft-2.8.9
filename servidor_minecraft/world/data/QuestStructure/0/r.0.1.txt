@@ -76,3 +76,5 @@ StoneLeafMound,-107,-100,519,528
 StoneLeafMound,-143,-136,886,895
 StonePlantMound2,-197,-184,653,665
 DinosaurSkull,32,43,1004,1023
+StonePlantMound2,-232,-220,623,636
+ClayWaterMound,-252,-244,665,672

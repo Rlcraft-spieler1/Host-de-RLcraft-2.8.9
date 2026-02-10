@@ -3677,6 +3677,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_0": "2026-02-10 20:34:04 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:31:29 +0000"
