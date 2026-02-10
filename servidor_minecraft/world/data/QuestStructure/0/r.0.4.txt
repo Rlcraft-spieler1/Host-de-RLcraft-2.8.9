@@ -1,0 +1,1 @@
+ShrineSmallAir,506,514,2049,2057

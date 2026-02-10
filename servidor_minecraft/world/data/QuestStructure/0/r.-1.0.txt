@@ -111,3 +111,13 @@ StoneLeafMound,-1018,-1011,229,238
 WoodPile,-989,-985,366,370
 StonePlantMound1,-966,-960,449,455
 StonePlantMound2,-960,-948,488,501
+Watchtower_1,-899,-885,342,358
+StonePlantMound2,-831,-819,434,447
+StonePlantBoulder,-890,-880,393,403
+WoodPile,-851,-847,478,482
+LargeCart,-837,-826,265,271
+StonePlantMound2,-767,-754,349,361
+SmallWoodenCottage,-750,-742,480,491
+MeteorSite,-729,-699,212,227
+StoneLeafMound,-721,-714,490,499
+DinosaurSkull,-613,-602,456,475

@@ -20,3 +20,9 @@ StoneBoulder,-287,-278,-1353,-1344
 StonePlantMound4,-441,-434,-1031,-1024
 SmallWoodenCottage2,-190,-182,-1095,-1087
 SmallWoodenCottage2,-195,-187,-1029,-1021
+SmallWoodenCottage2,-211,-203,-1495,-1487
+ShrineSmallFire,-158,-148,-1515,-1505
+ShrineSmallFire,-180,-170,-1497,-1487
+StoneBoulder,-231,-222,-1460,-1451
+StonePlantMound1,-160,-154,-1425,-1419
+StonePlantMound2,-163,-150,-1404,-1392

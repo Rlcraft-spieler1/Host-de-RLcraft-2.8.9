@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:wear_cape_and_skull": {
+    "criteria": {
+      "get_skull": "2026-02-10 17:58:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2026-02-10 17:22:27 +0000"
@@ -914,6 +920,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2026-02-10 17:22:27 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head22": "2026-02-10 17:58:16 +0000"
     },
     "done": true
   },
@@ -1773,8 +1785,11 @@
       "beaches": "2026-02-10 17:24:35 +0000",
       "extreme_hills_with_trees": "2026-02-10 17:32:07 +0000",
       "forest_hills": "2026-02-10 17:36:05 +0000",
+      "savanna": "2026-02-10 17:55:34 +0000",
       "plains": "2026-02-10 17:25:28 +0000",
       "jungle_hills": "2026-02-10 17:23:25 +0000",
+      "jungle_edge": "2026-02-10 17:53:46 +0000",
+      "savanna_rock": "2026-02-10 17:55:46 +0000",
       "ice_mountains": "2026-02-10 17:31:19 +0000",
       "taiga": "2026-02-10 17:33:31 +0000",
       "taiga_hills": "2026-02-10 17:40:54 +0000",

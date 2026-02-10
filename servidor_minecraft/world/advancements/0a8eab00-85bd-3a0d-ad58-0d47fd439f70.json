@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:wear_cape_and_skull": {
+    "criteria": {
+      "get_skull": "2026-02-10 17:58:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -923,6 +929,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head22": "2026-02-10 17:58:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -1157,6 +1169,12 @@
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "book": "2026-02-10 17:54:05 +0000"
     },
     "done": true
   },
@@ -1793,6 +1811,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2026-02-10 15:49:49 +0000",
+      "swampland": "2026-02-10 17:51:41 +0000",
+      "birch_forest": "2026-02-10 17:55:58 +0000",
       "extreme_hills_with_trees": "2026-02-10 15:34:06 +0000",
       "forest_hills": "2026-02-10 17:30:00 +0000",
       "plains": "2026-02-10 15:50:29 +0000",
@@ -1800,6 +1820,7 @@
       "jungle_edge": "2026-02-10 15:25:42 +0000",
       "taiga": "2026-02-10 17:33:22 +0000",
       "taiga_hills": "2026-02-10 17:33:59 +0000",
+      "birch_forest_hills": "2026-02-10 17:56:00 +0000",
       "extreme_hills": "2026-02-10 15:25:43 +0000",
       "roofed_forest": "2026-02-10 17:40:13 +0000",
       "river": "2026-02-10 15:41:52 +0000",
@@ -2851,6 +2872,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-02-10 17:59:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -2938,6 +2965,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:hirschgeist_killed_by_player": {
+    "criteria": {
+      "hg_killed": "2026-02-10 17:57:59 +0000"
     },
     "done": true
   },

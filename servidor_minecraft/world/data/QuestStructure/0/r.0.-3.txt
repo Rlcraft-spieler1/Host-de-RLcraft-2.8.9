@@ -489,3 +489,7 @@ ClayWaterMound1,-61,-51,-1832,-1821
 StonePlantBoulder,-93,-83,-1760,-1750
 StonePlantMound4,-83,-76,-1751,-1744
 StonePlantMound,-24,-19,-1712,-1707
+WoodWallRemains,-276,-248,-1621,-1613
+StonePlantMound,-264,-259,-1564,-1559
+DinosaurSkull,-214,-203,-1556,-1537
+StonePlantBoulder,-244,-234,-1550,-1540

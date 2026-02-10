@@ -65,3 +65,5 @@ StonePlantMound3,-1068,-1059,371,382
 StonePlantBoulder,-1216,-1206,263,273
 StonePlantMound1,-1156,-1150,389,395
 StonePlantMound,-1144,-1139,493,498
+StonePlantBoulder,-1248,-1238,470,480
+StonePlantBoulder,-1226,-1216,504,514
