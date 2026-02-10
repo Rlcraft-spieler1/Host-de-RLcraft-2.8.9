@@ -1827,6 +1827,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwistedmallet": {
+    "criteria": {
+      "advtwistedmallet": "2026-02-10 20:43:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_the_recipe": "2026-02-10 19:32:12 +0000"
@@ -2615,6 +2621,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-02-10 20:47:39 +0000",
+      "cooked_beef": "2026-02-10 20:41:28 +0000",
       "apple": "2026-02-10 19:46:15 +0000",
       "melon": "2026-02-10 19:37:50 +0000"
     },

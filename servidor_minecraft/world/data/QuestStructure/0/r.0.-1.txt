@@ -425,3 +425,12 @@ StonePlantMound,452,457,-663,-658
 StonePlantMound2,317,329,-675,-662
 MysticalTree1,148,159,-679,-666
 SmallAbandonedMine,504,519,-648,-623
+WoodPile,217,221,-700,-696
+StonePlantMound2,385,397,-721,-708
+StonePlantMound2,223,236,-764,-752
+StonePlantMound,310,315,-769,-764
+WoodPile,447,451,-734,-730
+StonePlantMound1,272,278,-786,-780
+VillageWoodMill,306,322,-815,-802
+VillageTriplets,285,299,-810,-796
+VillageTriplets,302,316,-835,-821
