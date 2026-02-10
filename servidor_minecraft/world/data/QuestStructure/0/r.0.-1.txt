@@ -442,3 +442,4 @@ StonePlantMound3,-272,-263,-709,-698
 StonePlantBoulder,-275,-265,-825,-815
 StoneLeafMound,-297,-288,-716,-709
 StonePlantMound3,-295,-284,-690,-681
+StonePlantMound,242,247,-849,-844
