@@ -272,11 +272,26 @@
     },
     "25:10": {
       "questID:3": 25,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737588277
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -284,11 +299,26 @@
     },
     "26:10": {
       "questID:3": 26,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770738661331
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -296,7 +326,13 @@
     },
     "27:10": {
       "questID:3": 27,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737592278
+        }
+      },
       "tasks:9": {}
     },
     "28:10": {
@@ -425,7 +461,19 @@
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {},
-          "userProgress:9": {},
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1,
+                "1:3": 0,
+                "2:3": 0,
+                "3:3": 0,
+                "4:3": 0,
+                "5:3": 0
+              },
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -5402,11 +5450,24 @@
     },
     "399:10": {
       "questID:3": 406,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737556201
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+              "value:3": 1
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_gs:gamestage"
         }
@@ -5414,11 +5475,24 @@
     },
     "400:10": {
       "questID:3": 407,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737697388
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+              "value:3": 1
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_gs:gamestage"
         }
@@ -5426,11 +5500,24 @@
     },
     "401:10": {
       "questID:3": 408,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737817500
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+              "value:3": 1
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_gs:gamestage"
         }
@@ -5438,11 +5525,24 @@
     },
     "402:10": {
       "questID:3": 409,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737817500
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+              "value:3": 1
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_gs:gamestage"
         }
@@ -5450,11 +5550,24 @@
     },
     "403:10": {
       "questID:3": 410,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+          "timestamp:4": 1770737817500
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+              "value:3": 1
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_gs:gamestage"
         }

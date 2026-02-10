@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2026-02-10 15:40:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/bamboo_terrarium": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -1367,6 +1373,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2026-02-10 15:50:34 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2026-02-10 15:22:44 +0000"
@@ -1765,9 +1777,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2026-02-10 15:49:49 +0000",
+      "extreme_hills_with_trees": "2026-02-10 15:34:06 +0000",
+      "plains": "2026-02-10 15:50:29 +0000",
       "jungle_hills": "2026-02-10 15:25:12 +0000",
       "jungle_edge": "2026-02-10 15:25:42 +0000",
       "extreme_hills": "2026-02-10 15:25:43 +0000",
+      "river": "2026-02-10 15:41:52 +0000",
       "jungle": "2026-02-10 15:22:44 +0000"
     },
     "done": false
@@ -1937,6 +1953,12 @@
   "biomesoplenty:recipes/buildingblocks/eucalyptus_stairs": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2026-02-10 15:50:45 +0000"
     },
     "done": true
   },
@@ -2489,6 +2511,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2026-02-10 15:50:45 +0000"
     },
     "done": true
   },
@@ -3110,6 +3138,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-02-10 15:50:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/peridot": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -3614,6 +3648,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_0": "2026-02-10 15:40:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -3662,6 +3702,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-10 15:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -3686,6 +3732,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2026-02-10 15:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
@@ -3695,6 +3747,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2026-02-10 15:22:43 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2026-02-10 15:50:45 +0000"
     },
     "done": true
   },

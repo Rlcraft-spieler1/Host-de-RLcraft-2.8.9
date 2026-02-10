@@ -1,0 +1,3 @@
+StonePlantMound,-536,-531,-142,-137
+StonePlantBoulder,-549,-539,-334,-324
+SmallCart,-584,-580,-436,-429
