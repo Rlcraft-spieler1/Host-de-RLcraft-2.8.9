@@ -1,0 +1,9 @@
+StonePlantMound2,-27,-15,-212,-199
+StonePlantMound,-24,-19,-147,-142
+StonePlantMound3,23,32,-225,-214
+StonePlantMound2,32,44,-213,-200
+StoneBoulder,25,34,-320,-311
+StoneBoulder,-80,-71,-182,-173
+StonePlantMound2,-148,-135,-190,-178
+DinosaurSkeleton,-188,-179,-141,-95
+StonePlantMound,-235,-230,-294,-289

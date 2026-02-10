@@ -1,11 +1,5 @@
 [
   {
-    "uuid": "5de55f99-9f06-33c5-810c-1ebca33e2dfb",
-    "name": "mrcripts",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
     "name": "spieler",
     "level": 4,
