@@ -1,0 +1,4 @@
+ShrineSmallAir,721,729,-211,-203
+UndergroundTreeoid,807,833,-239,-216
+ShrineSmallWater,775,783,-115,-107
+BlazeSpawnerCrystal,973,979,-345,-339

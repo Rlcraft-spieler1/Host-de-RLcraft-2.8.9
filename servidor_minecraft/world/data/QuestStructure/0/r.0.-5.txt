@@ -1,0 +1,4 @@
+StonePlantMound4,-320,-313,-2593,-2586
+StoneBoulder,-262,-253,-2645,-2636
+SmallAbandonedMine,-346,-331,-2668,-2643
+StonePlantBoulder,-485,-475,-2599,-2589

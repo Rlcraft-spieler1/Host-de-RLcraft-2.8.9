@@ -1,0 +1,16 @@
+VillageChurch,1367,1393,-1641,-1629
+WoodPile,1438,1442,-1741,-1737
+WoodPile,1469,1473,-1749,-1745
+StonePlantBoulder,1354,1364,-1775,-1765
+StonePlantMound3,1218,1229,-1592,-1583
+StoneBoulder,1185,1194,-1665,-1656
+StoneBoulder,1130,1139,-1806,-1797
+StonePlantMound3,1110,1121,-1789,-1780
+StonePlantMound4,1235,1242,-1938,-1931
+StoneLeafMound,1112,1119,-1829,-1820
+StonePlantMound1,1405,1411,-1845,-1839
+StonePlantBoulder,1404,1414,-1887,-1877
+StonePlantMound3,1343,1354,-2008,-1999
+StoneLeafMound,1038,1047,-1873,-1866
+StonePlantMound4,1043,1050,-1860,-1853
+SmallAbandonedMine,1187,1212,-2054,-2039
