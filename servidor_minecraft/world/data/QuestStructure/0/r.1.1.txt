@@ -9,3 +9,16 @@ StonePlantMound1,592,598,615,621
 StoneBoulder,741,750,567,576
 StonePlantBoulder,812,822,529,539
 VillageWoodMill,852,865,658,674
+StonePlantMound2,509,522,875,887
+SmallFortRuins,502,532,887,919
+StonePlantMound3,539,548,896,907
+SmallWoodenCottage,563,574,891,899
+StoneBoulder,591,600,906,915
+StoneBoulder,599,608,907,916
+ClayWaterMound1,724,734,892,903
+StonePlantMound,744,749,886,891
+StoneBoulder,747,756,901,910
+StonePlantBoulder,545,555,955,965
+StoneBoulder,575,584,947,956
+StonePlantMound,692,697,982,987
+StonePlantMound4,706,713,980,987
